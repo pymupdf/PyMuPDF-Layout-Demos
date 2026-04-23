@@ -24,9 +24,9 @@ Fb represents a monocyclic or polycyclic hydrocarbon group.
 
 Fc represents a single bond or a straight chain or branched alkylene group, and preferably a single bond or a methylene group.
 
-F1 represents a group represented by formula (F1).
+F<sub>1</sub> represents a group represented by formula (F1).
 
-P1 represents from 1 to 3.
+P<sub>1</sub> represents from 1 to 3.
 
 As the cyclic hydrocarbon group represented by Fb, a cyclopentyl group, a cyclohexyl group, or a norbornyl group is preferred.
 

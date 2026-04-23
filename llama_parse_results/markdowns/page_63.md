@@ -1,8 +1,10 @@
 
 
+European Investment Bank The EU bank
+
 General Administrative and Submission Clauses
 
-• An image of the signature copy-pasted on the document is not acceptable, the signature should be made by hand (the document should be printed, hand signed and then scanned to pdf or image format).
+* An image of the signature copy-pasted on the document is not acceptable, the signature should be made by hand (the document should be printed, hand signed and then scanned to pdf or image format).
 
 **Ad ii)** a copy of the corporate registration document (e.g. extract from the national register of companies, Official Gazette, etc.) or other proof of establishment (formation) issued by a national authority shall also be attached the VIF.
 
@@ -10,21 +12,16 @@ General Administrative and Submission Clauses
 
 The registration document shall, as a minimum, include the following information:
 
-• official registered name;
-
-• official registered address (seat/Head Office);
-
-• alternative addresses, if any;
-
-• name and title of legal representative(s);
-
-• registration number;
-
-• VAT number (if available on the same document).
+* official registered name;
+* official registered address (seat/Head Office);
+* alternative addresses, if any;
+* name and title of legal representative(s);
+* registration number;
+* VAT number (if available on the same document).
 
 Format:
 
-• Image file or pdf, as a scan of the document issued by the relevant registration authority.
+* Image file or pdf, as a scan of the document issued by the relevant registration authority.
 
 Please note that the provision of the additional administrative documentation is necessary in order to prepare the contract as well as to authorise payments.
 
@@ -38,8 +35,8 @@ Where the `Terms of Reference` refers to 'Tenderer' it shall be considered as 'S
 
 **Product names and trademarks**: whenever the technical specifications mention a specific product name or trademark and a sufficiently precise and fully intelligible description is not possible, such mention should be understood as referring to that product <ins>or its equivalent</ins>, unless otherwise provided for in the Terms of Reference.
 
-Once the contract has entered into force, the prices indicated in the financial proposal of the successful Tenderer may only be revised under the conditions laid down in the contract.
+~~Once the contract has entered into force, the prices indicated in the financial proposal of the successful Tenderer may only be revised under the conditions laid down in the contract.~~
 
 Please be aware that after the UK's withdrawal from the EU, the rules of access to EU procurement procedures of economic operators established in third countries will apply to candidates or tenderers
 
-Last updated: June 2020                Page 17 of 21
+Last updated: June 2020                                Page 17 of 21

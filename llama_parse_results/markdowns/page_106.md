@@ -1,6 +1,6 @@
 
 
-30 Annual Report 2004
+30 Santos Annual Report 2004
 
 of, non-executive, independent Directors, except for the Environmental and Safety Committee, which includes the CEO as a member.
 
@@ -10,7 +10,7 @@ Executive management attend Board and Committee meetings, at which they report t
 
 ## 2.3 Composition of the Board
 
-The composition of the Board is determined in accordance with the Company's Constitution and the Board Guidelines which, among other things, require that:
+> The composition of the Board is determined in accordance with the Company's Constitution and the Board Guidelines which, among other things, require that:
 
 > * the Board is to comprise a minimum of five and a maximum of ten Directors (exclusive of the CEO);
 > 

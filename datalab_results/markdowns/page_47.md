@@ -6,19 +6,15 @@
 
 **II.8.2** Each party must:
 
-(a) not use *confidential information or documents* for any purpose other than to perform its obligations under the contract without the prior written agreement of the other party;
-
-(b) ensure the protection of such *confidential information or documents* with the same level of protection as its own confidential information or documents, and in any case with due diligence;
-
-(c) not disclose directly or indirectly *confidential information or documents* to third parties without the prior written agreement of the other party.
+1. not use *confidential information or documents* for any purpose other than to perform its obligations under the contract without the prior written agreement of the other party;
+2. ensure the protection of such *confidential information or documents* with the same level of protection as its own confidential information or documents, and in any case with due diligence;
+3. not disclose directly or indirectly *confidential information or documents* to third parties without the prior written agreement of the other party.
 
 **II.8.3** The confidentiality obligation set out in this Article are binding on the contracting authority and the contractor during the performance of the contract and for as long as the information or documents remain confidential unless:
 
-(a) the disclosing party agrees to release the receiving party from the confidentiality obligation earlier;
-
-(b) the *confidential information or documents* become public through other means than in breach of the confidentiality obligation
-
-(c) the applicable law requires the disclosure of the *confidential information or documents*.
+1. the disclosing party agrees to release the receiving party from the confidentiality obligation earlier;
+2. the *confidential information or documents* become public through other means than in breach of the confidentiality obligation
+3. the applicable law requires the disclosure of the *confidential information or documents*.
 
 **II.8.4** The contractor must obtain from any natural person with the power to represent it or take decisions on its behalf, as well as from third parties involved in the performance of the contract, a commitment that they will comply with this Article. At the request of the contracting authority, the contractor must provide a document providing evidence of this commitment.
 

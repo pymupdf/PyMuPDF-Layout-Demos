@@ -4,16 +4,21 @@
 
 Barcode image
 
-# (12) **United States Patent** Jung et al.
+US006482565B1
 
-(10) **Patent No.:** **US 6,482,565 B1**  
-(45) **Date of Patent:** **Nov. 19, 2002**
+(12) **United States Patent**  
+Jung et al.
 
-## (54) **PHOTORESIST CROSS-LINKER AND PHOTORESIST COMPOSITION COMPRISING THE SAME**
+(10) Patent No.: **US 6,482,565 B1**  
+(45) Date of Patent: **Nov. 19, 2002**
 
-(75) Inventors: **Jae Chang Jung; Keun Kyu Kong;**  
-**Myoung Soo Kim; Hyoung Gi Kim;**  
-**Hyeong Soo Kim; Ki Ho Baik**, all of  
+(54) **PHOTORESIST CROSS-LINKER AND  
+PHOTORESIST COMPOSITION  
+COMPRISING THE SAME**
+
+(75) Inventors: **Jae Chang Jung; Keun Kyu Kong;  
+Myoung Soo Kim; Hyoung Gi Kim;  
+Hyeong Soo Kim; Ki Ho Baik**, all of  
 Kyoungki-do (KR)
 
 (73) Assignee: **Hyundai Electronics Industries Co.,  
@@ -27,30 +32,30 @@ U.S.C. 154(b) by 0 days.
 
 (22) Filed: **Nov. 24, 1999**
 
-## (30) **Foreign Application Priority Data**
+(30) **Foreign Application Priority Data**
 
-Nov. 27, 1998 (KR) .................... 98-51356  
-Feb. 22, 1999 (KR) .................... 99-5825
+Nov. 27, 1998 (KR) 98-51356  
+Feb. 22, 1999 (KR) 99-5825
 
-(51) **Int. Cl.**<sup>7</sup> .................... **G03F 7/004**
+(51) **Int. Cl.**<sup>7</sup> **G03F 7/004**
 
-(52) **U.S. Cl.** .................... **430/270.1; 430/325; 526/266;  
+(52) **U.S. Cl.** **430/270.1; 430/325; 526/266;  
 526/320; 526/271; 549/347; 549/369; 549/430**
 
-(58) **Field of Search** .................... **430/270.1, 325;  
+(58) **Field of Search** **430/270.1, 325;  
 549/347, 369, 430; 526/266, 320, 271**
 
-## (56) **References Cited**
+(56) **References Cited**
 
-### **U.S. PATENT DOCUMENTS**
+# **U.S. PATENT DOCUMENTS**
 
-3,468,857 A 9/1969 Graver .................... 260/80.3  
-5,049,463 A \* 9/1991 Kato et al. .................... 430/49  
-5,059,698 A 10/1991 Schulthess et al. .................... 549/375  
-5,412,041 A \* 5/1995 Lesko et al. .................... 525/340  
-6,060,212 A \* 5/2000 McCulloch et al. .................... 430/270.1
+3,468,857 A 9/1969 Graver 260/80.3  
+5,049,463 A \* 9/1991 Kato et al. 430/49  
+5,059,698 A 10/1991 Schulthess et al. 549/375  
+5,412,041 A \* 5/1995 Lesko et al. 525/340  
+6,060,212 A \* 5/2000 McCulloch et al. 430/270.1
 
-### **FOREIGN PATENT DOCUMENTS**
+# **FOREIGN PATENT DOCUMENTS**
 
 DE 3714276 A1 11/1988  
 EP 0 347 381 A1 12/1989  
@@ -61,7 +66,7 @@ JP 4-5040054 \* 12/1970
 JP 5-216294 \* 8/1993  
 WO WO 99/61497 12/1999
 
-### **OTHER PUBLICATIONS**
+# **OTHER PUBLICATIONS**
 
 1970:100663 Caplus Abstract.\*  
 1971:65746 Caplus Abstract.\*  
@@ -75,8 +80,8 @@ WO WO 99/61497 12/1999
 Kagaku Zasshi, 1970, 73(7), 1717-19.\*
 
 Anionic polymerizabilities of 2-vinyl-1,3-dioxolane and  
-2-vinyl-1,3-dioxane, Yamashita, N. et al., *J. Polym.Sci.,  
-Polym.Lett.Ed.*, 1979, 17, 521-6.\*
+2-vinyl-1,3-dioxane, Yamashita, N. et al., J. Polym.Sci.,  
+Polym.Lett.Ed., 1979, 17, 521-6.\*
 
 1994:496066 Caplus Abstract of JP 5216294, Aug. 1993.\*
 
@@ -85,7 +90,7 @@ Chemical Abstract No. 131:337017 & JP 11315075.
 Chemical Abstract No. 128:295769 & JP 10088419.
 
 Chemical Abstract No. 118:102825 & J. Maslinska-Solich  
-et al., *React. Polym.* (1992), 18(2), 159-166.
+et al., React. Polym. (1992), 18(2), 159-166.
 
 J.Maślińska-Solich et al., "Studies on Co(II) and Mn(II)  
 complex of some maleic anhydride copolymers," *Reactive  
@@ -98,11 +103,11 @@ Polymers*, vol. 18, 1992, pp. 159-166.
 (74) **Attorney, Agent, or Firm**—Townsend and Townsend  
 and Crew LLP
 
-## (57) **ABSTRACT**
+(57) **ABSTRACT**
 
 The present invention relates to a cross-linker for use in a  
 photoresist which is suitable for a photolithography process  
-using KrF (248 nm), ArF (193 nm), E-beam, ion beam or  
+using KrF (248 ru), ArF (193 nm), E-beam, ion beam or  
 EUV light source. According to the present invention, pre-  
 ferred cross-linkers comprise a copolymer having repeating  
 units derived from: (i) a compound represented by following  
@@ -112,7 +117,7 @@ acrylic acid and maleic anhydride.
 
 <Chemical Formula 1>
 
-![Chemical Formula 1: A repeating unit structure. It features a central carbon atom bonded to R3, a double-bonded H2C group, and a bridging group R. The bridging group R is bonded to a central carbon atom which is also bonded to two oxygen atoms. These oxygen atoms are bridged by a ring structure containing R1 and R2 groups. The subscript m is shown above the bridging group R, and the subscript n is shown below the ring structure.]()
+![Chemical Formula 1: A repeating unit structure. It shows a central carbon atom double-bonded to H2C and bonded to R3. This central carbon is also bonded to a carbon atom which is bonded to R and a carbon atom which is bonded to R. This central carbon is also bonded to a carbon atom which is bonded to two oxygen atoms, which are bonded to two carbon atoms, which are bonded to R1 and R2 respectively. The structure is enclosed in brackets with subscript n.]()
 
 wherein, R<sub>1</sub>, R<sub>2</sub> and R individually represent straight or  
 branched C<sub>1-10</sub> alkyl, straight or branched C<sub>1-10</sub> ester,  

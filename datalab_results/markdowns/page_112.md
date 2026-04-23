@@ -16,13 +16,13 @@
 
 [0487] In the development step, an alkali developer is usually used.
 
-[0488] Examples of the alkali developer include an alkaline aqueous solution containing inorganic alkalis such as sodium hydroxide, potassium hydroxide, sodium carbonate, sodium silicate, sodium metasilicate and aqueous ammonia, primary amines such as ethylamine and n-propylamine, secondary amines such as diethylamine and di-n-butylamine, tertiary amines such as triethylamine and methyl-diethylamine, alcohol amines such as dimethylethanamine and triethanolamine, quaternary ammonium salts such as tetramethylammonium hydroxide and tetrabutylammonium hydroxide, or cyclic amines such as pyrrole and piperidine.
+[0488] Examples of the alkali developer include an alkaline aqueous solution containing inorganic alkalis such as sodium hydroxide, potassium hydroxide, sodium carbonate, sodium silicate, sodium metasilicate and aqueous ammonia, primary amines such as ethylamine and n-propylamine, secondary amines such as diethylamine and di-n-butylamine, tertiary amines such as triethylamine and methyl-diethylamine, alcohol amines such as dimethylethanamine and triethanolamine, quaternary ammonium salts such as tetramethylammonium hydroxide and tetraethylammonium hydroxide, or cyclic amines such as pyrrole and piperidine.
 
 [0489] In the alkali developer, alcohols and a surfactant may be added in an appropriate amount.
 
 [0490] The concentration of the alkali developer is usually from 0.1 to 20 mass %. The pH of the alkali developer is usually from 10.0 to 15.0.
 
-[0491] Also, an imprint mold may be produced using the composition of the present invention. For details, please refer to, for example, Japanese Patent 4,109,085, JP-A-2008-162101, and "Yoshihiko Hirai (compiler), *Nanoimprint no Kiso to Gijutsu Kaihatsu*•*Oyo Tenkai*-*Nanoimprint no Kiban Gijutsu to Saishin no Gijutsu Tenkai* (*Basic and Technology Expansion*•*Application Development of Nanoimprint-Substrate Technology of Nanoimprint and Latest Technology Expansion*), Frontier Shuppan".
+[0491] Also, an imprint mold may be produced using the composition of the present invention. For details, please refer to, for example, Japanese Patent 4,109,085, JP-A-2008-162101, and "Yoshihiko Hirai (compiler), *Nanoimprint no Kiso to Gijutsu Kaihatsu*•*Oyo Tenkai-Nanoimprint no Kiban Gijutsu to Saishin no Gijutsu Tenkai* (Basic and Technology Expansion•Application Development of Nanoimprint-Substrate Technology of Nanoimprint and Latest Technology Expansion), Frontier Shuppan".
 
 # EXAMPLES
 
@@ -40,6 +40,4 @@
 
 Chemical reaction scheme showing the synthesis of Resin P-14:
 
-Structure (5) (a substituted benzene derivative) reacts to form Structure (6) (a substituted benzene derivative with an OH group). Structure (6) then reacts to form Structure (7) (a substituted benzene derivative with a sulfone group and a sulfonate group). Structure (7) finally reacts to form Structure (8) (a substituted benzene derivative with a sulfone group and a sulfonate group).
-
-Labels (5), (6), (7), and (8) are placed below the corresponding structures.
+Structure (5) (a substituted benzene derivative) reacts to form Structure (6) (a substituted benzene derivative with an OH group). Structure (6) then reacts to form Structure (7) (a substituted benzene derivative with a sulfone group and a trifluoromethylsulfonate group). Structure (7) finally reacts to form Structure (8) (a substituted benzene derivative with a sulfone group and a sodium trifluoromethylsulfonate group).

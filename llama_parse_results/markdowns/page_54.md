@@ -1,7 +1,6 @@
 
 
-# ECHA
-## EUROPEAN CHEMICALS AGENCY
+ECHA Logo - European Chemicals Agency
 
 ## 2.4 Ways to submit a tender: how can economic operators organise themselves to submit a tender?
 

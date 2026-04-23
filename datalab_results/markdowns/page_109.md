@@ -6,8 +6,7 @@ Barcode image
 
 US009423690B2
 
-(12) **United States Patent**  
-**Takizawa et al.**
+# (12) **United States Patent** **Takizawa et al.**
 
 (10) **Patent No.:** **US 9,423,690 B2**  
 (45) **Date of Patent:** **Aug. 23, 2016**
@@ -34,7 +33,7 @@ US 2015/0168834 A1 Jun. 18, 2015
 (63) Continuation of application No.  
 PCT/JP2013/072485, filed on Aug. 16, 2013.
 
-## **Foreign Application Priority Data**
+### **Foreign Application Priority Data**
 
 Aug. 20, 2012 (JP) .................... 2012-181892  
 Mar. 15, 2013 (JP) .................... 2013-054401
@@ -75,7 +74,7 @@ See application file for complete search history.
 ### **U.S. PATENT DOCUMENTS**
 
 8,252,504 B2\* 8/2012 Harada et al. ........ 430/270.1  
-8,426,115 B2\* 4/2013 Hatakeyama et al. ....... 430/312
+8,426,115 B2\* 4/2013 Hatakeyama et al. ........ 430/312
 
 (Continued)
 
@@ -102,10 +101,10 @@ There is provided a pattern forming method, including: (a) forming a film by usi
 
 (1-0)
 
-$$\begin{array}{c} \text{*} \\ | \\ \text{R}_a \\ | \\ \text{L}_1 \\ | \\ \text{O} \\ | \\ \text{O} \\ | \\ \text{R}_1 \\ | \\ \text{R}_2 \\ | \\ \text{R}_{11} \\ | \\ \text{R}_{12} \\ | \\ \text{R}_{13} \end{array}$$
+$$\begin{array}{c} \text{R}_a \\ \text{C} \\ \text{L}_1 \\ \text{O} \\ \text{C} \\ \text{O} \\ \text{R}_1 \\ \text{R}_2 \\ \text{R}_{11} \\ \text{R}_{12} \\ \text{R}_{13} \end{array}$$
 
 (1-2)
 
-$$\begin{array}{c} \text{*} \\ | \\ \text{R}_b \\ | \\ \text{L}_2 \\ | \\ \text{C}_6\text{H}_4 \\ | \\ (\text{R}_3\text{R}_2) \\ | \\ (\text{OH})\text{R}_1 \end{array}$$
+$$\begin{array}{c} \text{R}_b \\ \text{C} \\ \text{L}_2 \\ \text{C}_6\text{H}_4 \\ (\text{R}_3\text{R}_2) \\ (\text{OH})\text{R}_1 \end{array}$$
 
 **14 Claims, No Drawings**

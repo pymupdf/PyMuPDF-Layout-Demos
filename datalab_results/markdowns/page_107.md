@@ -16,60 +16,16 @@ To support continued innovation throughout the company, we made significant inve
 
 ![](0a070e8054da2df07205172e048f6659_img.jpg)
 
-Bar chart showing net sales (in Billions \$) from 2000 to 2004. The highest value is \$4.8 in 2004.
-
-| Year | Net Sales (Billions \$) |
-|------|-------------------------|
-| 00   | 3.2                     |
-| 01   | 3.5                     |
-| 02   | 3.5                     |
-| 03   | 3.8                     |
-| 04   | 4.8                     |
-
-net sales  
-(Billions \$) CAGR 8.3%
+Bar chart showing net sales (in Billions \$) from 2000 to 2004. The Y-axis ranges from 0 to 4. The sales figures are: 2000: 3.2, 2001: 3.5, 2002: 3.6, 2003: 3.8, 2004: 4.8. The chart is labeled "net sales (Billions \$) CAGR 8.3%".
 
 ![](88096eec96db1b919e141720a47f97c6_img.jpg)
 
-Bar chart showing net earnings (in Millions \$) from 2000 to 2004. The highest value is \$231.7 in 2004.
-
-| Year | Net Earnings (Millions \$) |
-|------|----------------------------|
-| 00   | 160                        |
-| 01   | 170                        |
-| 02   | 180                        |
-| 03   | 170                        |
-| 04   | 231.7                      |
-
-net earnings  
-(Millions \$) CAGR 8.0%
+Bar chart showing net earnings (in Millions \$) from 2000 to 2004. The Y-axis ranges from 0 to 200. The earnings figures are: 2000: 160, 2001: 170, 2002: 180, 2003: 175, 2004: 231.7. The chart is labeled "net earnings (Millions \$) CAGR 8.0%".
 
 ![](1066b22ea190b81c91c3441ea7618236_img.jpg)
 
-Bar chart showing net earnings per share (in Dollars) from 2000 to 2004. The highest value is \$1.65 in 2004.
-
-| Year | Net Earnings per Share (Dollars) |
-|------|----------------------------------|
-| 00   | 1.05                             |
-| 01   | 1.15                             |
-| 02   | 1.20                             |
-| 03   | 1.15                             |
-| 04   | 1.65                             |
-
-net earnings per share  
-(Dollars) CAGR 8.3%
+Bar chart showing net earnings per share (in Dollars) from 2000 to 2004. The Y-axis ranges from 0.00 to 1.40. The earnings per share figures are: 2000: 1.05, 2001: 1.15, 2002: 1.20, 2003: 1.15, 2004: 1.65. The chart is labeled "net earnings per share (Dollars) CAGR 8.3%".
 
 ![](59c76d920f3faf3933d80a47647d42a9_img.jpg)
 
-Bar chart showing annual dividend (in Dollars) from 2000 to 2004. The highest value is \$0.45 in 2004.
-
-| Year | Annual Dividend (Dollars) |
-|------|---------------------------|
-| 00   | 0.30                      |
-| 01   | 0.35                      |
-| 02   | 0.40                      |
-| 03   | 0.40                      |
-| 04   | 0.45                      |
-
-annual dividend  
-(Dollars) CAGR 6.5%
+Bar chart showing annual dividend (in Dollars) from 2000 to 2004. The Y-axis ranges from 0.00 to 0.40. The dividend figures are: 2000: 0.30, 2001: 0.35, 2002: 0.35, 2003: 0.40, 2004: 0.45. The chart is labeled "annual dividend (Dollars) CAGR 6.5%".

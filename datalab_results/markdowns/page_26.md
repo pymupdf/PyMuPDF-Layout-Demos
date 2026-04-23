@@ -68,14 +68,11 @@ KENAI FSS
 
 Stand Alone FSS within Canadian Airspace
 
-122.2  
-VICTORIA HARBOUR  
-FSS AVAILABLE 1345-0530Z#
-
 Stand Alone FSS within Canadian Airspace
 
 122.2  
-VICTORIA HARBOUR
+VICTORIA HARBOUR  
+FSS AVAILABLE 1345-0530Z†
 
 Stand Alone RCO
 

@@ -18,7 +18,7 @@ Because of its relatively low operating costs, the Eagle Ford to remains profita
 | JAN-15 | \~90   | \~140                 | \~4.3                      |
 
 
-### EAGLE FORD
+**EAGLE FORD**
 *As at and for the Year Ended 31 December 2014*
 
 | Production (boe)                       | 1,696,549 |
@@ -49,7 +49,7 @@ Since its entrance into the Eagle Ford in March 2013, the Company has:
 
 • increased its undrilled 3P Reserves drilling locations to 153.7 net; which represents a 4.3 year drilling inventory (assuming two rig program drilling 36 net wells per year and 40-80 acre spacing)
 
-### EAGLE FORD CONSTANT CASE RESERVES
+**EAGLE FORD CONSTANT CASE RESERVES**
 *As at and for the Year Ended 31 December 2014*
 
 | 1P Reserves (mboe)                 | 18,131.9      |
@@ -61,9 +61,12 @@ Since its entrance into the Eagle Ford in March 2013, the Company has:
 | Net 3P Reserves Drilling Locations | 153.7         |
 
 
-[Map of Texas showing Eagle Ford field locations with the following elements:
-- State of Texas outline
-- SEA Field Office and SEA Acreage marked in legend
-- Counties labeled: Maverick, Dimmit, Atascosa, McMullen, Live Oak
-- Windows marked: Oil Window (green), Volatile Oil & Condensate Window (yellow/orange), Dry Gas Window (red/orange)
-- Shaded areas showing SEA acreage and field office locations across the Eagle Ford trend]
+**Map of Texas showing Eagle Ford Operations:**
+
+The map displays the Eagle Ford field area in South Texas, showing:
+- SEA Field Office and SEA Acreage locations
+- Counties: Maverick, Dimmit, Atascosa, McMullen, Live Oak
+- Oil Window (shown in green)
+- Volatile Oil & Condensate Window (shown in orange/red)
+- Dry Gas Window (shown in red)
+- Field boundaries and acreage positions marked in blue and gray shading

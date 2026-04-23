@@ -27,12 +27,12 @@
 ## MERMAID SUPPLIER
 29.05m Landing Barge, Supply Vessel
 
-[Technical illustration showing side view of Mermaid Supplier vessel - a landing barge with orange deck and supply capabilities]
+[Technical illustration showing side view of Mermaid Supplier vessel - a landing barge with orange deck and bow ramp]
 
 ## MERMAID AVENGER
 19.8m Oil Pollution, Crew Boat
 
-[Technical illustration showing side view of Mermaid Avenger vessel - an oil pollution response and crew boat with orange superstructure]
+[Technical illustration showing side view of Mermaid Avenger vessel - a crew boat with orange superstructure]
 
 ## MERMAID COMMANDO
 20.04m Tug, Utility Vessel

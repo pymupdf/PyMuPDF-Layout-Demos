@@ -36,6 +36,8 @@ Monday-Friday 8:30AM-5:30PM PST
 
 NOTE: This warranty is valid to U.S.A. customers who have purchased this product from an authorized BARSKA dealer in the U.S.A.
 
+----
+
 # MICROSCOPE USER MANUAL
 
 **MODEL AY11240**

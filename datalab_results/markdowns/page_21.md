@@ -2,8 +2,7 @@
 
 Now I present the constrained optimization procedure to compute the sharp lower bound under MTR. I pay particular attention to the special case where  $a_{k+1} - a_k = \delta$  for each integer  $k$  at the optimum. In this case, the lower bound reduces to
 
-$$\sup_{0\le y\le\delta}\sum_{k=-\infty}^\infty \max\left(F_1\left(y+(k+1)\delta\right)-F_0\left(y+k\delta\right),0\right),$$
- (B.1)
+$$\sup_{0\le y\le\delta}\sum_{k=-\infty}^\infty \max\left(F_1\left(y+(k+1)\delta\right)-F_0\left(y+k\delta\right),0\right), \tag{B.1}$$
 
 and computation of (B.1) poses a simple one-dimensional optimization problem.
 
@@ -23,8 +22,7 @@ where  $y^*\in \arg\max_{0\le y\le\delta}\sum_{k=-\infty}^\infty \max\left(F_1\l
 
 **Step 3.** For  $J=K$ , solve the following optimization problem:
 
-$$\sup_{\{a_k\}_{k=-J}^J\in\mathcal{S}_\delta^{J,K}(y)}\sum_{k=-J}^J \max\left\{F_1\left(a_{k+1}\right)-F_0\left(a_k\right),0\right\},$$
- (B.2)
+$$\sup_{\{a_k\}_{k=-J}^J\in\mathcal{S}_\delta^{J,K}(y)}\sum_{k=-J}^J \max\left\{F_1\left(a_{k+1}\right)-F_0\left(a_k\right),0\right\}, \tag{B.2}$$
 
 where
 

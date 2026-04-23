@@ -1,7 +1,6 @@
 
 
-SELECTED STATISTICS
-(unaudited)
+# SELECTED STATISTICS (unaudited)
 
 |                                                  | Three Month Period Ended<br/>Dec. 31,2003 | Three Month Period Ended<br/>Sept. 30,2003 | Three Month Period Ended<br/>Jun. 30,2003 | Three Month Period Ended<br/>Mar. 31,2003 | Three Month Period Ended<br/>Dec. 31,2002 |
 | ------------------------------------------------ | ----------------------------------------- | ------------------------------------------ | ----------------------------------------- | ----------------------------------------- | ----------------------------------------- |
@@ -35,7 +34,7 @@ SELECTED STATISTICS
 | PCS Cash Cost Per User (CCPU) (4)                | $36.31                                    | $40.05                                     | $ 44.23                                   | $45.87                                    | $53.52                                    |
 
 
-**PLANT FACILITIES AT DEC. 31, 2003**
+## PLANT FACILITIES AT DEC. 31, 2003
 
 |                                                    | Telephone | CATV |
 | -------------------------------------------------- | --------- | ---- |

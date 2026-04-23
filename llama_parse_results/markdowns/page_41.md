@@ -40,6 +40,6 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (b) operating with the permission of Kent Police.
 
-(a) S.I. 2016/765, to which there are amendments not relevant to these Regulations.
+**(a)** S.I. 2016/765, to which there are amendments not relevant to these Regulations.
 
-(b) Co-ordinated Universal Time (UTC) is one hour behind British Summer Time (BST).
+**(b)** Co-ordinated Universal Time (UTC) is one hour behind British Summer Time (BST).

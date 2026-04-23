@@ -2,17 +2,15 @@ be formulated for the general SINR regime as follows:
 
 $$
 \begin{aligned}
-& \underset{p_{n,k,l}}{\text{minimize}}
-& & \log_2 \prod_{l=1}^{L} \prod_{k=1}^{K} \prod_{n=1}^{N} \left( \frac{\sigma^2 + I_{n,l}}{p_{n,k,l}h_{n,k,l} + \sigma^2 + I_{n,l}} \right)^{\alpha_{n,k,l}} \\
-& \text{subject to}
-& & \sum_{n=1}^{N} \alpha_{n,k,l}p_{n,k,l} \leq P_{k,\max}, \quad \forall k, \forall l
+\underset{p_{n,k,l}}{\text{minimize}} \quad & \log_2 \prod_{l=1}^L \prod_{k=1}^K \prod_{n=1}^N \left( \frac{\sigma^2 + I_{n,l}}{p_{n,k,l}h_{n,k,l} + \sigma^2 + I_{n,l}} \right)^{\alpha_{n,k,l}} \\
+\text{subject to} \quad & \sum_{n=1}^N \alpha_{n,k,l}p_{n,k,l} \leq P_{k,\max}, \quad \forall k, \forall l
 \end{aligned} \tag{12}
 $$
 
-Note that the numerator and denominator in (12) are posynomials and minimizing a ratio between two posynomials is referred to be a truly non-convex NP hard intractable problem known as complimentary GP. However, this problem can be transformed into GP by letting the denominator $f(p) = p_{n,k,l}h_{n,k,l} + \sigma^2 + I_{n,l} = \sum_{l=1}^{L} \sum_{k=1}^{K} u_{n,k,l}(p)$ and approximating the denominator $f(p)$ with a monomial using the arithmetic/geometric mean inequality as follows:
+Note that the numerator and denominator in (12) are posynomials and minimizing a ratio between two posynomials is referred to be a truly non-convex NP hard intractable problem known as complimentary GP. However, this problem can be transformed into GP by letting the denominator $f(p) = p_{n,k,l}h_{n,k,l} + \sigma^2 + I_{n,l} = \sum_{l=1}^L \sum_{k=1}^K u_{n,k,l}(p)$ and approximating the denominator $f(p)$ with a monomial using the arithmetic/geometric mean inequality as follows:
 
 $$
-\sum_{l=1}^{L} \sum_{k=1}^{K} u_{n,k,l}(p) \geq \prod_{l=1}^{L} \prod_{k=1}^{K} \left( \frac{u_{n,k,l}(p)}{s_{n,k,l}} \right)^{s_{n,k,l}} \tag{13}
+\sum_{l=1}^L \sum_{k=1}^K u_{n,k,l}(p) \geq \prod_{l=1}^L \prod_{k=1}^K \left( \frac{u_{n,k,l}(p)}{s_{n,k,l}} \right)^{s_{n,k,l}} \tag{13}
 $$
 
 where $s_{n,k,l} = \frac{u_{n,k,l}(p_0)}{f(p_0)}$. Thus, the problem can be solved by extending the single condensation method presented in [14] for multi-cell scenario. The details of centralized scheme A are presented in Algorithm 2.

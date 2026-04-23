@@ -84,6 +84,6 @@ Corning, NY 14831-0001
 
 02BR24601EN
 
-![Corning logo with the tagline 'Discovering Beyond Imagination'](a378064ca1325302ee7048e11876e5d2_img.jpg)
+![Corning logo featuring a stylized blue and red graphic element above the word CORNING and the tagline Discovering Beyond Imagination.](a378064ca1325302ee7048e11876e5d2_img.jpg)
 
-Corning logo with the tagline 'Discovering Beyond Imagination'
+Corning logo featuring a stylized blue and red graphic element above the word CORNING and the tagline Discovering Beyond Imagination.

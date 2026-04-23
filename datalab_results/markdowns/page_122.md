@@ -86,8 +86,8 @@ EPÜ.
 
 (57) Die vorliegende Erfindung betrifft eine Sensorvorrichtung (4) für einen Messerhalter (1), umfassend - einen Grundkörper (6) zur Befestigung der Sensorvorrichtung (4) an einem Messerhalter (1), - mindestens einen an dem Grundkörper (6) befestigten Sensor (7) zur Erfassung einer Größe und - einen an dem Grundkörper (6) befestigten Sender (8) zur kabellosen Übertragung der von dem Sensor (7) erfassten Größe.
 
-![Figure 1: Diagram of a sensor device (4) for a blade holder (1). The device includes a base body (6) attached to the blade holder (1), a sensor (7), and a transmitter (8). The diagram shows the blade holder (1) and the sensor device (4) attached to it. The sensor (7) is located near the blade (2) and the base body (6). The transmitter (8) is also shown.](1175ac3341b29c8551b635719b9ac85e_img.jpg)
+![Figure 1: Diagram of a sensor device (4) for a blade holder (1). The device includes a base body (6) attached to the blade holder (1), a sensor (7), and a transmitter (8). The diagram shows the blade holder (1) and the sensor device (4) attached to it. The sensor device (4) is mounted on the base body (6). The sensor (7) and transmitter (8) are located within the sensor device (4). The blade holder (1) is shown with a circular component (2) and a central point (3).](1175ac3341b29c8551b635719b9ac85e_img.jpg)
 
-Figure 1: Diagram of a sensor device (4) for a blade holder (1). The device includes a base body (6) attached to the blade holder (1), a sensor (7), and a transmitter (8). The diagram shows the blade holder (1) and the sensor device (4) attached to it. The sensor (7) is located near the blade (2) and the base body (6). The transmitter (8) is also shown.
+Figure 1: Diagram of a sensor device (4) for a blade holder (1). The device includes a base body (6) attached to the blade holder (1), a sensor (7), and a transmitter (8). The diagram shows the blade holder (1) and the sensor device (4) attached to it. The sensor device (4) is mounted on the base body (6). The sensor (7) and transmitter (8) are located within the sensor device (4). The blade holder (1) is shown with a circular component (2) and a central point (3).
 
 Fig. 1

@@ -22,4 +22,7 @@ Only in the case of a negotiated procedure, competitive dialogue or competitive 
 
 If foreseen in the 'Terms of Reference' and in accordance with the objective criteria defined therein, Tenderers having passed the exclusion and selection stage, may be invited to make an oral
 
-Last updated: June 2020                                                                                                                                Page 6 of 21
+Last updated: June 2020presentation of their tender. The presentation may be followed by a question and answer session. The presentation and question and answer session will be conducted in accordance with the principles of equal treatment and transparency.
+
+<page_footer>
+Last updated: June 2020                                                                                                Page 6 of 21

@@ -46,19 +46,10 @@ Diagram illustrating components of an airport runway and associated markings.
 
 ![Airport sketch diagram showing runways, taxiways, and approach lighting systems.](4a4646a696af04e604f014c503b5730a_img.jpg)
 
-Airport sketch diagram showing runways, taxiways, and approach lighting systems. Key features include:
+Airport sketch diagram showing runways (e.g., 7, 16L, 16R, 17R, 26, 34L, 34R, 35L, 35R), taxiways, and approach lighting systems (HIRL, TDZL, TDZ/CL). The diagram includes elevation information (ELEV 5434) and distance information (TDZE 5352, 082° 5 NM from FAF, FAF to MAP 5 NM). A Time/Distance Table is provided below the sketch:
 
-- ELEV 5434
-- TDZE 5352
-- Runways 7, 16L, 16R, 17R, 26, 34L, 34R, 35L, 35R
-- HIRL All Rwys
-- 082° 5 NM from FAF
-- FAF to MAP 5 NM
-
-Time/Distance Table:
-
-| Knots   | 60   | 90   | 120  | 150  | 180  |
-|---------|------|------|------|------|------|
-| Min:Sec | 5:00 | 3:20 | 2:30 | 2:00 | 1:40 |
+|         | Knots | 60   | 90   | 120  | 150  | 180 |
+|---------|-------|------|------|------|------|-----|
+| Min:Sec | 5:00  | 3:20 | 2:30 | 2:00 | 1:40 |     |
 
 Airport sketch diagram showing runways, taxiways, and approach lighting systems.

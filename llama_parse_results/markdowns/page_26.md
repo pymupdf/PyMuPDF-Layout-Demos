@@ -38,7 +38,7 @@ T - Transmit Only
 
 ### Stand Alone AWOS & ASOS
 
-| GOONE AWOS-3PT 118.525 BKW | STAMPEDE PASS ASOS 135.275 SMP |
+| BOONE AWOS-3PT 118.525 BRW | STAMPEDE PASS ASOS 135.275 SMP |
 | -------------------------- | ------------------------------ |
 
 

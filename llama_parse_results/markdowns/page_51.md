@@ -1,6 +1,6 @@
 
 
-[ECHA Logo: European Chemicals Agency - blue and yellow square logo with "ECHA" text and "EUROPEAN CHEMICALS AGENCY" underneath]
+[ECHA Logo - European Chemicals Agency]
 
 **services for which these capacities are required (i.e. the latter will assume the role of subcontractors).**
 

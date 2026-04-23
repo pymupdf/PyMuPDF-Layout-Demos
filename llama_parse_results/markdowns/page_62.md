@@ -1,6 +1,6 @@
 
 
-[ECHA EUROPEAN CHEMICALS AGENCY logo]
+[ECHA Logo - European Chemicals Agency]
 
 # 4. FORM AND CONTENT OF THE TENDER
 
@@ -19,8 +19,7 @@ The following requirements apply to the technical and financial offer (to be upl
 * *Technical offer.*
 
 a) The technical proposal of the Tenderer shall be in free format and in accordance with the page limitation instructions provided**.**
-The technical offer must provide all the information needed to assess the compliance with **section 1.4** of these specifications, the **Annex 1 "Technical Specifications"** and the award criteria.
-
+   The technical offer must provide all the information needed to assess the compliance with **section 1.4** of these specifications, the **Annex 1 "Technical Specifications"** and the award criteria.
 b) The Minimum Requirements Checklist in **Annex 14 "Minimum requirements checklist"** must also be submitted in the technical offer.
 
 * *Financial offer.*
@@ -35,6 +34,6 @@ As part of the financial offer, tenderers must submit:
 
 In case of doubt between the original electronic format and the scanned version of the financial model, the latter will prevail.
 
-Each tenderer's financial offer must be completely unambiguous and unconditional. Tenders which contain statements preventing an accurate and complete comparison of the tenders (e.g. "To be discussed", "Depending on x", etc.) or referring to external circumstances (such as an already existing but separate contract) will be disqualified.
+> Each tenderer's financial offer must be completely unambiguous and unconditional. Tenders which contain statements preventing an accurate and complete comparison of the tenders (e.g. "To be discussed", "Depending on x", etc.) or referring to external circumstances (such as an already existing but separate contract) will be disqualified.
 
 43

@@ -8,11 +8,11 @@ $$\sup_{\{B_k\}_{k=-\infty}^{\infty}} \sum_{k=-\infty}^{\infty} \max \{\mu_{0,W}
 
 $$= \sup_{\{b_k\}_{k=-\infty}^{\infty}} \sum_{k=-\infty}^{\infty} \max \left\{ F_{0,W} (b_k|w) - F_{1,W} \left(\frac{t_1 - t_W}{t_0 - t_W} b_{k+1} - \frac{t_1 - t_0}{t_0 - t_W} w|w\right), 0 \right\}$$
 
-where $$\frac{t_0-t_W}{t_1-t_0}\delta + w \leq b_{k+1} \leq b_k$$. Consequently, the sharp upper bound is written as follows: letting $$F^U_{\Delta,W}(\delta|w)$$ be the sharp upper bound on $$\Pr(Y_1 - Y_0 \leq \delta|W = w)$$,
+where $$\frac{t_0-t_W}{t_1-t_0}\delta + w \leq b_{k+1} \leq b_k$$. Consequently, the sharp upper bound is written as follows: letting $$F_{\Delta,W}^U (\delta|w)$$ be the sharp upper bound on $$\Pr (Y_1 - Y_0 \leq \delta|W = w)$$,
 
-$$F^U_{\Delta}(\delta)$$
+$$F_{\Delta}^U (\delta)$$
 
-$$= \int F^U_{\Delta,W}(\delta|w) dF_W(w)$$
+$$= \int F_{\Delta,W}^U (\delta|w) dF_W (w)$$
 
 $$= \int \left\{ 1 - \sup_{\{B_k\}_{k=-\infty}^{\infty}} \sum_{k=-\infty}^{\infty} \max \{\mu_{0,W} (B_k|w) - \mu_{1,W} (B_k^D|w), 0\} \right\} dF_W$$
 

@@ -37,10 +37,10 @@ To support continued innovation throughout the company, we made significant inve
 
 | Year | Net Earnings Per Share (Dollars) |
 | ---- | -------------------------------- |
-| 00   | 1.27                             |
-| 01   | 1.36                             |
-| 02   | 1.34                             |
-| 03   | 1.34                             |
+| 00   | 1.30                             |
+| 01   | 1.39                             |
+| 02   | 1.37                             |
+| 03   | 1.37                             |
 | 04   | 1.65                             |
 
 

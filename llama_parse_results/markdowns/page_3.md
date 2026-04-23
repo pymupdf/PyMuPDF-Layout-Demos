@@ -6,21 +6,21 @@
 | ----------- | ----------- | ---------- | ------------- |
 | 0.2         | \~230       | \~850      | \~850         |
 | 0.5         | \~160       | \~420      | \~420         |
-| 0.8         | \~50        | \~300      | \~300         |
+| 0.8         | \~50        | \~310      | \~310         |
 
 
 | Model size (N) | All Blocked | All Scalar | Auto Blocking |
 | -------------- | ----------- | ---------- | ------------- |
 | 20             | \~1400      | \~1400     | \~7000        |
 | 50             | \~250       | \~250      | \~1700        |
-| 100            | \~50        | \~50       | \~900         |
+| 100            | \~50        | \~50       | \~850         |
 
 
 Figure 3: Efficiency results for two contrived model structures: varying sized blocks of fixed correlation (left), and fixed sized blocks of varying correlation (right).
 
 ## Random Effects Model
 
-In the random effects model (Table 1), automated blocking generates an MCMC algorithm identical to the Informed Blocking algorithm (blocking each α<sub>i</sub>, β<sub>i</sub> pair), which produces a tenfold improvement in Efficiency over the most efficient static algorithm – for this model, All Scalar sampling. The cut height h = 0.1 indicates that only the α<sub>i</sub>, β<sub>i</sub> pairs exhibit posterior correlations above 0.9. The Informed Cross-Level algorithm requires a substantially longer Runtime and produces a high ESS, which results in nearly identical Efficiency as the efficiently blocked Auto Blocking algorithm.
+In the random effects model (Table 1), automated blocking generates an MCMC algorithm identical to the Informed Blocking algorithm (blocking each <sub>α<sub>i</sub></sub>, <sub>β<sub>i</sub></sub> pair), which produces a tenfold improvement in Efficiency over the most efficient static algorithm – for this model, All Scalar sampling. The cut height h = 0.1 indicates that only the <sub>α<sub>i</sub></sub>, <sub>β<sub>i</sub></sub> pairs exhibit posterior correlations above 0.9. The Informed Cross-Level algorithm requires a substantially longer Runtime and produces a high ESS, which results in nearly identical Efficiency as the efficiently blocked Auto Blocking algorithm.
 
 ## Auto-Regressive Model
 

@@ -12,7 +12,7 @@
 
 ![](2cb4ae7af8981b4179851b065f41dab8_img.jpg)
 
-Diagram showing a segment of a VOR airway (V465) between LUNDI and OLNUE. The airway is labeled with altitudes 15000, 13300G, and \*13300. The MEA (Minimum Enroute Altitude) is 13300'. The MEA GAP is 51. The distance from LUNDI to the MEA point is 35, and the distance from the MEA point to OLNUE is 63. The MEA is indicated by a box labeled 114.
+Diagram showing a segment of a VOR airway (V465) between LUNDI and OLNUE. The airway is labeled with altitudes 15000, 13300G, and \*13300. The MEA (Minimum Enroute Altitude) is 13300'. The MEA GAP is indicated between 35 and 63.
 
 ### Description
 
@@ -29,7 +29,7 @@ MOCA of 13300'
 
 122.05  
 JACKSON  
-115.4 JAC 101  $\text{E}\text{E}\text{E}$   
+115.4 JAC 101  $\text{E}^{\text{E}}$   
 N43°37.26' W110°43.90'  
 [CASPER]  
 MCA  

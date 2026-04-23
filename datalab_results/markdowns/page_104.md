@@ -61,7 +61,7 @@ Bar chart showing Annualized Dividends Per Share from 2008 to 2013.
 
 Chart showing Adjusted Net Income and Adjusted Diluted Earnings Per Share from 2008 to 2013.
 
-Legend: Adjusted Net Income (\$ in Billions) (Gray bars), Adjusted Diluted Earnings Per Share (Line with circles).
+Legend: Adjusted Net Income (\$ in Billions) (Gray bars), Adjusted Diluted Earnings Per Share (Line with circles) (Red line).
 
 | Year | Adjusted Net Income (\$ in Billions) | Adjusted Diluted Earnings Per Share |
 |------|--------------------------------------|-------------------------------------|

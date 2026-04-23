@@ -13,7 +13,7 @@ Screenshot showing the navigation path to the Encryption Licenses section. The l
 
 Figure 12-9 Expanding Encryption Licenses section on the Licensed Functions window
 
-3. The Encryption Licenses window displays information about your control enclosures. Right-click the enclosure on which you want to install an encryption license. This action opens a menu with two license activation options (**Activate License Automatically** and **Activate License Manually**), as shown in Figure 12-10. Use either option to activate encryption. For more information about how to complete an automatic activation process, see 12.3.4, “Activate the license automatically” on page 614. For more information about how to complete a manual activation process, see 12.3.5, “Activate the license manually” on page 617.
+1. The Encryption Licenses window displays information about your control enclosures. Right-click the enclosure on which you want to install an encryption license. This action opens a menu with two license activation options (**Activate License Automatically** and **Activate License Manually**), as shown in Figure 12-10. Use either option to activate encryption. For more information about how to complete an automatic activation process, see 12.3.4, “Activate the license automatically” on page 614. For more information about how to complete a manual activation process, see 12.3.5, “Activate the license manually” on page 617.
 
 ![Screenshot of the Encryption Licenses window showing a Control Enclosure entry. A context menu is displayed over the entry, offering 'Activate License Automatically' and 'Activate License Manually' options.](0538daaa5583c23e17db3a12f2281a55_img.jpg)
 

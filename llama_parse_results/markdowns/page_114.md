@@ -4,7 +4,7 @@ US 2020/0050106 A1                                    40                        
 
 -continued
 
-[Chemical structure: A triphenyl imidazole compound with three phenyl groups attached to an imidazole ring with an NH group]
+[Chemical structure: A triphenyl imidazole compound with three phenyl groups attached to an imidazole ring with N-H]
 
 [Chemical structure: A long-chain molecule with hydroxyl groups at both ends, containing amine and ether linkages in the middle portion, with multiple branching chains]
 
@@ -12,7 +12,7 @@ US 2020/0050106 A1                                    40                        
 
 [Chemical structure: A zwitterionic compound with a long hydrocarbon chain containing a positively charged nitrogen and a carboxylate group]
 
-[Chemical structure: A dicyclohexyl carbodiimide-like compound with three cyclohexyl groups attached to a central guanidine structure]
+[Chemical structure: A tricyclohexyl urea derivative with three cyclohexyl groups attached to a central urea moiety]
 
 [Chemical structure: A cyclic ether compound with a cyclohexyl substituent and multiple ether linkages forming a crown-like structure]
 

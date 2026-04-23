@@ -30,9 +30,9 @@ Santos discovered gas in the United States at the Torres 1A onshore well, which 
 
 Other wells in the offshore Otway Basin included the deep water Amrit 1 well, which was plugged and abandoned after failing to intersect economic hydrocarbons, and Callister 1 which was also plugged and abandoned with gas shows.
 
-![Portrait of Jacques Gouadain, Vice President of Geoscience and New Ventures.](5a36d88d3904f3f2d386c7cf63fa5053_img.jpg)
+![Portrait of Jacques Gouadain, Vice President, Geoscience and New Ventures.](5a36d88d3904f3f2d386c7cf63fa5053_img.jpg)
 
-Portrait of Jacques Gouadain, Vice President of Geoscience and New Ventures.
+Portrait of Jacques Gouadain, Vice President, Geoscience and New Ventures.
 
 '2004 was a great year for our explorers. We started drilling one of the most exciting portfolios in our industry and our success to date shows that our strategy of basin excellence is delivering.'
 
@@ -41,8 +41,8 @@ Portrait of Jacques Gouadain, Vice President of Geoscience and New Ventures.
 Vice President  
 Geoscience and New Ventures
 
-![Image of the float-off of the Jack Bates rig prior to deep water drilling operations offshore Otway Basin, Victoria.](c23a98f443a2fbc7b9a13380e5d38a8c_img.jpg)
+![Image of the float-off of the Jack Bates rig prior to deep water drilling operations, offshore Otway Basin, Victoria.](c23a98f443a2fbc7b9a13380e5d38a8c_img.jpg)
 
-Image of the float-off of the Jack Bates rig prior to deep water drilling operations offshore Otway Basin, Victoria.
+Image of the float-off of the Jack Bates rig prior to deep water drilling operations, offshore Otway Basin, Victoria.
 
 Float-off of Jack Bates rig prior to deep water drilling operations, offshore Otway Basin, Victoria.

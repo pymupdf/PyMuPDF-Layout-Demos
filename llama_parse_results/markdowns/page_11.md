@@ -38,15 +38,15 @@ $$I(X;B)_\rho + \lambda I(A\rangle BX)_\rho \leq I(X;B)_\theta + \lambda I(A\ran
 
 where
 
-$$\rho^{XABE} \equiv \sum_x p_X(x) |x\rangle\langle x|^X \otimes U_{\mathcal{N}}^{A' \to BE}(\phi_x^{AA'}),$$
+$$\rho^{XABE} \equiv \sum_x p_X(x) |x\rangle\langle x|^X \otimes U_{\mathcal{N}}^{A' \rightarrow BE}(\phi_x^{AA'}),$$
 
-$$\theta^{XABE} \equiv \sum_x p_X(x) |x\rangle\langle x|^X \otimes U_{\mathcal{N}}^{A' \to BE}(\varphi_x^{AA'}),$$
+$$\theta^{XABE} \equiv \sum_x p_X(x) |x\rangle\langle x|^X \otimes U_{\mathcal{N}}^{A' \rightarrow BE}(\varphi_x^{AA'}),$$
 
-$$U_{\mathcal{N}}^{A' \to BE}$$ is an isometric extension of $$\mathcal{N}$$, $$\varphi_x^{A'} = \Delta(\varphi_x^{A'}) = \Delta(\phi_x^{A'})$$, and $$\Delta$$ is the completely dephasing channel.
+$$U_{\mathcal{N}}^{A' \rightarrow BE}$$ is an isometric extension of $$\mathcal{N}$$, $$\varphi_x^{A'} = \Delta(\varphi_x^{A'}) = \Delta(\phi_x^{A'})$$, and $$\Delta$$ is the completely dephasing channel.
 
 **Proof.** The proof of this lemma is similar to the proof of Lemma 9 in Ref. [71]. Consider another classical-quantum state $$\sigma$$ in addition to the two presented in the statement of the theorem:
 
-$$\sigma^{XAYE} \equiv \sum_x p_X(x) |x\rangle\langle x|^X \otimes (\Delta^{B \to Y} \circ U_{\mathcal{N}}^{A' \to BE})(\phi_x^{AA'}).$$
+$$\sigma^{XAYE} \equiv \sum_x p_X(x) |x\rangle\langle x|^X \otimes (\Delta^{B \rightarrow Y} \circ U_{\mathcal{N}}^{A' \rightarrow BE})(\phi_x^{AA'}).$$
 
 Then the following chain of inequalities holds for all $$\lambda \geq 1$$:
 
@@ -64,8 +64,8 @@ $$\frac{1}{2}|0\rangle\langle 0|^X \otimes \psi_0^{AA'} + \frac{1}{2}|1\rangle\l
 
 where $$\psi_0^{AA'}$$ and $$\psi_1^{AA'}$$ are pure states, defined as follows for $$\mu \in [0, 1/2]$$:
 
-$$\text{Tr}_A\left\{\psi_0^{AA'}\right\} = \mu |0\rangle\langle 0|^{A'} + (1 - \mu) |1\rangle\langle 1|^{A'}, \qquad (D2)$$
+$$\text{Tr}_A\left\{\psi_0^{AA'}\right\} = \mu |0\rangle\langle 0|^{A'} + (1-\mu) |1\rangle\langle 1|^{A'}, \qquad (D2)$$
 
-$$\text{Tr}_A\left\{\psi_1^{AA'}\right\} = (1 - \mu) |0\rangle\langle 0|^{A'} + \mu |1\rangle\langle 1|^{A'}. \qquad (D3)$$
+$$\text{Tr}_A\left\{\psi_1^{AA'}\right\} = (1-\mu) |0\rangle\langle 0|^{A'} + \mu |1\rangle\langle 1|^{A'}. \qquad (D3)$$
 
 **Proof.** We assume without loss of generality that the dephasing basis is the computational basis. Consider a

@@ -1,6 +1,6 @@
 
 
-19                 EP 1 499 943 B1                                20
+19                    EP 1 499 943 B1                    20
 
 Betriebsspannung der ersten integrierten Schaltung, wobei die Spannungsregelungslogik ein Signal vom Programm empfängt.
 
@@ -22,9 +22,7 @@ Betriebsspannung der ersten integrierten Schaltung, wobei die Spannungsregelungs
 
 **23.** Maschinenlesbares Medium, das Anweisungen bereitstellt, die bei Ausführung durch eine Maschine bewirken, dass die Maschine Operationen durchführt, umfassend:
 
-Detektieren (402) eines Ereignisses, um eine integrierte Schaltung eines Computersystems in einen höheren Performance-Zustand zu versetzen, wobei die integrierte Schaltung mehrere Performance-Zustände aufweist einschließlich eines ersten Performance-Zustandes, eines zweiten Performance-Zustands, der höher als der erste Performance-Zustand ist, und eines dritten Performance-Zustandes, der höher als der zweite Performance-Zustand ist, und Bestimmen (404), ob das Ereignis ein vom Benutzer eingeleitetes Ereignis oder ein von Software eingeleitetes Ereignis ist; wenn das Ereignis ein vom Benutzer eingelei-
-
-tetes Ereignis ist, direktes Versetzen (406) der integrierten Schaltung aus dem ersten Performance-Zustand in den dritten Performance-Zustand auf Basis des Detektierens des Benutzerereignisses, wenn das Ereignis ein von Software eingeleitetes Ereignis ist, Versetzen (408) der integrierten Schaltung aus dem ersten Performance-Zustand in den zweiten Performance-Zustand.
+Detektieren (402) eines Ereignisses, um eine integrierte Schaltung eines Computersystems in einen höheren Performance-Zustand zu versetzen, wobei die integrierte Schaltung mehrere Performance-Zustände aufweist einschließlich eines ersten Performance-Zustandes, eines zweiten Performance-Zustands, der höher als der erste Performance-Zustand ist, und eines dritten Performance-Zustandes, der höher als der zweite Performance-Zustand ist, und Bestimmen (404), ob das Ereignis ein vom Benutzer eingeleitetes Ereignis oder ein von Software eingeleitetes Ereignis ist; wenn das Ereignis ein vom Benutzer eingeleitetes Ereignis ist, direktes Versetzen (406) der integrierten Schaltung aus dem ersten Performance-Zustand in den dritten Performance-Zustand auf Basis des Detektierens des Benutzerereignisses, wenn das Ereignis ein von Software eingeleitetes Ereignis ist, Versetzen (408) der integrierten Schaltung aus dem ersten Performance-Zustand in den zweiten Performance-Zustand.
 
 **24.** Maschinenlesbares Medium nach Anspruch 23, ferner umfassend Anweisungen, die bei Ausführung durch die Maschine bewirken, dass die Maschine die weiteren Operationen durchführt, umfassend:
 

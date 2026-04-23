@@ -41,7 +41,7 @@ where  $C$  is an integration constant. The singular part of Eq. (A15) is given 
 
 In this appendix we evaluate the singular contributions to the Green function at the shadow mass shell,  $\omega\sim k_y$  to fourth order in the coupling constant. We start with the expression (A1) introduced in App. A1. In contrast to the discussion in App. A1 we anticipate the singularity at  $\omega=k_y$  to come from the region  $y_2\gg x_2$ , and introduce new variables accordingly,  $x_2=\xi y_2$ ,  $y_1=\eta y_2$ . Performing integration over  $y_2$  we obtain
 
-$$\Sigma^{(4)}=\mathrm{i}(Ja^d)^4\int_0^\infty d\xi\int_0^1d\eta\frac{\Gamma(3-4d)\eta^{-2d}(1-\eta)^{-2d}}{\left[(-\mathrm{i}((\omega-k_y)+(\omega-k_x)\xi)\right]^{3-4d}}\times\left[\frac{|(1-\eta)^2+\xi^2|^d|\eta^2+\xi^2|^d}{|1+\xi^2|^d|\xi|^{2d}}-1\right].$$
+$$\Sigma^{(4)}=\mathrm{i}(Ja^d)^4\int_0^\infty d\xi\int_0^1d\eta\frac{\Gamma(3-4d)\eta^{-2d}(1-\eta)^{-2d}}{\left[(-\mathrm{i}((\omega-k_y)+(\omega-k_x)\xi))\right]^{3-4d}}\times\left[\frac{|(1-\eta)^2+\xi^2|^d|\eta^2+\xi^2|^d}{|1+\xi^2|^d|\xi|^{2d}}-1\right].$$
  (B1)
 
 We notice that the singularity at  $\omega\sim k_y$  comes from the region of small  $\xi$ . Therefore we keep only the first term in the square brackets in Eq. (B1). After performing remaining integrations over  $\xi$  we obtain

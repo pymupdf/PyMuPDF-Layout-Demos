@@ -20,7 +20,7 @@ Congratulations on your purchase of this high quality BARSKA microscope. With pr
 
 1. Do not attempt to disassemble the instrument. This product has been carefully assembled at the factory and should only be examined by a factory-trained technician.
 
-2. This instrument should only be used in an environment with an indoor temperature range of 32<sup>o</sup>F to 104<sup>o</sup>F.
+2. This instrument should only be used in an environment with an indoor temperature range of 32ºF to 104ºF.
 
 3. Do not use this instrument in an environment with a lot of dust. <ins>Cover the instrument when not in use.</ins>
 
@@ -50,47 +50,59 @@ Proper care and storage of this instrument is essential. Please read the followi
 
 **Model AY11240**
 
-Eyepiece ← Eyepiece
+Eyepiece
 
 Barrel
 
-Revolving Turret → Coarse Adjustment Knob
+Revolving Turret
 
-Objectives → Fine Adjustment Knob
+Objectives
 
 Spring Clips
 
-Stand ← Stand
-
 Stage
 
-5-Hole Diaphragm and Condenser
-
 Concave Mirror
+
+Coarse Adjustment Knob
+
+Fine Adjustment Knob
+
+Stand
+
+5-Hole Diaphragm and Condenser
 
 **Model AY11238**
 
 Eyepiece
 
-Monocular Tube → Eyepiece
+Monocular Tube
 
 Eyepiece Set Screw
 
-Rotating Head → Stage Height Limit Adjustment
+Rotating Head
 
-Revolving Turret → Stand
+Stage Height Limit Adjustment
 
-Objectives → Coarse Adjustment Knob
+Stand
+
+Revolving Turret
+
+Objectives
 
 Spring Clips
 
-Stage → Fine Adjustment Knob
+Stage
 
 5-Hole Diaphragm and Condenser
 
+Coarse Adjustment Knob
+
+Fine Adjustment Knob
+
 Power Cord
 
-Lamp ← Lamp
+Lamp
 
 Lamp On/Off Switch
 
@@ -100,6 +112,6 @@ BARSKA Model AY11240 and Model AY11238 are designed for biological studies such 
 
 # CONSTRUCTION
 
-BARSKA Model AY11240 is a fixed tube type. For comfortable observation, the arm can be easily tilted at any angle from 90<sup>o</sup> vertical to 45<sup>o</sup> level. It is also equipped with a coarse adjustment and fine adjustment as well as a space limiter to protect the objective from contacting and damaging the specimen. BARSKA Model AY11238 features a monocular tube that is slanted at a 45<sup>o</sup> angle. The head rotates 360<sup>o</sup>. The Eyepiece Set Screw prevents the eyepiece from falling out of the tube.
+BARSKA Model AY11240 is a fixed tube type. For comfortable observation, the arm can be easily tilted at any angle from 90º vertical to 45º level. It is also equipped with a coarse adjustment and fine adjustment as well as a space limiter to protect the objective from contacting and damaging the specimen. BARSKA Model AY11238 features a monocular tube that is slanted at a 45º angle. The head rotates 360º. The Eyepiece Set Screw prevents the eyepiece from falling out of the tube.
 
 1                                                                                                                                                                      2

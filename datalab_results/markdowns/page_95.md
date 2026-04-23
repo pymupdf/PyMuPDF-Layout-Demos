@@ -54,6 +54,6 @@ Santos is committed to achieving effective emission reduction targets, to the pu
 
 m<sup>3</sup>
 
-![Line graph showing Oil Spill Volumes (m³) from 2001 to 2004. The volume was stable at approximately 500 m³ in 2001 and 2002. In 2003, the volume spiked to approximately 2000 m³, labeled 'Lyttton oil spill effect'. In 2004, the volume dropped back to approximately 50 m³.](dd1d6e73bbf9a56ab53dd192beb334f5_img.jpg)
+![Line graph showing Oil Spill Volumes (m³) from 2001 to 2004. The volume was stable at approximately 500 m³ in 2001 and 2002. In 2003, the volume spiked to 2000 m³, labeled 'Lyttton oil spill effect'. In 2004, the volume dropped back to approximately 50 m³.](dd1d6e73bbf9a56ab53dd192beb334f5_img.jpg)
 
-Line graph showing Oil Spill Volumes (m³) from 2001 to 2004. The volume was stable at approximately 500 m³ in 2001 and 2002. In 2003, the volume spiked to approximately 2000 m³, labeled 'Lyttton oil spill effect'. In 2004, the volume dropped back to approximately 50 m³.
+Line graph showing Oil Spill Volumes (m³) from 2001 to 2004. The volume was stable at approximately 500 m³ in 2001 and 2002. In 2003, the volume spiked to 2000 m³, labeled 'Lyttton oil spill effect'. In 2004, the volume dropped back to approximately 50 m³.

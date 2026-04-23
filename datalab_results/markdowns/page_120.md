@@ -16,8 +16,6 @@ voltage regulation logic to change an operating voltage of the first integrated 
 
 ## 15. The apparatus of claim 10, wherein the instructions reside in a Basic Input Output System.
 
-15
-
 ## 16. The apparatus of claim 10, wherein the instructions reside in an operating system.
 
 20
@@ -48,8 +46,6 @@ voltage regulation logic to change an operating voltage of the first integrated 
 
 detecting (402) an event to transition an integrated circuit of a computing system to a higher state of performance, the integrated circuit having multiple states of performance including a first state of performance, a second state of performance higher than the first state of performance, and a third state of performance higher than the second state of performance; and
 
-50
-
 determining (404) whether the event is a user-initiated event or a software-initiated event; if the event is a user-initiated event directly transitioning (406) the integrated circuit from the first state of performance to the third state of performance based upon detecting the user event, if the event is a software-initiated event transitioning (408) the integrated circuit from the first state of performance to the second state of performance.
 
 ## 24. The machine-readable medium of claim 23, further comprising instructions which, when executed by the machine, cause the machine to perform the further operations comprising:
@@ -68,10 +64,8 @@ operating the integrated circuit at the third state of performance for a transie
 
 changing the state of performance of the integrated circuit by changing an amount of processors to manage the processing load.
 
-# Patentansprüche
+# **Patentansprüche**
 
 ## 1. Verfahren, umfassend:
 
 Detektieren (402) eines Ereignisses, um eine integrierte Schaltung eines Computersystems in einen höheren Performance-Zustand zu versetzen, wobei die integrierte Schaltung mehrere Performance-Zustände aufweist einschließlich eines ersten Performance-Zustandes, eines zweiten Performance-Zustands, der höher als
-
-55

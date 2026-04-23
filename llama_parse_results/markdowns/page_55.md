@@ -14,11 +14,11 @@ The aggregate amount of the advance and interim invoices issued by the Consultan
 
 7.3 Unless otherwise permitted under the terms of the Sanction (as defined in Article 8 of the General Conditions), the Contracting Authority shall not make, nor shall the Consultant request, any payments under this Contract as of the date of a Sanction Event (as defined in Article 8 of the General Conditions), irrespective of whether the payment concerns delivery of Services predating the Sanction Event. For the avoidance of doubt, payments so extinguished shall not be recoverable.
 
-## **(8) Contact addresses**
+## (8) Contact addresses
 
 Any written communication relating to this Contract between the Contracting Authority and the Consultant must state the Contract title and identification number, and must be sent by post, fax, e-mail or by hand to the addresses identified in accordance with Articles 5.3 and 7.8 of the General Conditions.
 
-## **(9) Law and language of the Contract**
+## (9) Law and language of the Contract
 
 9.1 This Contract and any dispute or claim arising out or in connection with it shall be governed by the laws of the Grand Duchy of Luxembourg.
 
@@ -26,11 +26,11 @@ Any written communication relating to this Contract between the Contracting Auth
 
 9.3 The language of the Contract and of all written communications between the Consultant and the Contracting Authority shall be English.
 
-## **(10) Tax and customs arrangements**
+## (10) Tax and customs arrangements
 
 No duties, levies or taxes, including VAT, which may be payable in the beneficiary country/countries will be charged to the Contracting Authority.
 
-## **(11) Other specific conditions applying to the Contract**
+## (11) Other specific conditions applying to the Contract
 
 11.1 Any subcontracting must be done in accordance with Article 4 of the General Conditions.
 

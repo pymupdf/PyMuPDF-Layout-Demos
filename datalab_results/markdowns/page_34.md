@@ -14,7 +14,7 @@ Each sector altitude is identified in solid black color by the MSL ceiling and f
 
 **Military Training Routes (MTRs)** are shown on Sectionals and TACs. They are identified by the route designator:
 
-![Route designator symbol: a dashed line with an arrowhead.]() IR21. Route designators are shown in solid black on the route centerline, positioned along the route for continuity. The designator IR or VR is not repeated when two or more routes are established over the same airspace, e.g., IR201-205-227. Routes numbered 001 to 099 are shown as IR1 or VR99, eliminating the initial zeros. Direction of flight along the route is indicated by small arrowheads adjacent to and in conjunction with each route designator.
+![Route designator symbol: a solid black line with an arrowhead.]() IR21. Route designators are shown in solid black on the route centerline, positioned along the route for continuity. The designator IR or VR is not repeated when two or more routes are established over the same airspace, e.g., IR201-205-227. Routes numbered 001 to 099 are shown as IR1 or VR99, eliminating the initial zeros. Direction of flight along the route is indicated by small arrowheads adjacent to and in conjunction with each route designator.
 
 The following note appears on Helicopters, Sectionals and TACs except for Hawaiian Islands which is different.
 

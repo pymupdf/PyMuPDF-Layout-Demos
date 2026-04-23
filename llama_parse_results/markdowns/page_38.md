@@ -74,9 +74,7 @@ ZONE
 
 Appropriate notes as required may be shown
 
-[Visual representation showing a dashed purple curved line forming a large area]
-
-Small Area [with small dashed purple curved segment]
+[Visual representation showing a large dashed purple circle and a small dashed purple area labeled "Small Area"]
 
 NOTICE
 FOR REASONS OF NATIONAL SECURITY
@@ -85,7 +83,7 @@ BELOW 1200' MSL IN THIS AREA
 
 ## Special Awareness Training Areas
 
-[Visual representation showing a gray rectangular area with text:]
+[Visual representation showing a gray rectangular area with blue text:]
 DCA-VOR-DME—60 NM
 
 NOTICE
@@ -96,9 +94,7 @@ of DCA VOR-DME, as defined on Flyway.
 
 Appropriate notes as required may be shown.
 
-[Visual representation showing a curved line labeled:]
-MODE C
-30 NM
+[Visual representation showing a curved purple line labeled "MODE C" with "30 NM" text]
 
 ## Air Defense Identification Zone (ADIZ)
 
@@ -106,6 +102,7 @@ Note: Delimiting line not shown when it coincides with International Boundary, p
 
 CONTIGUOUS
 U.S. ADIZ
-[shown with dotted pattern]
+
+[Visual representation showing dotted pattern]
 
 30

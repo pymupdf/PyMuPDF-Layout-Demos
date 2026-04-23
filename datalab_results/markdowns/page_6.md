@@ -2,7 +2,7 @@
 
 ![](770fa0497770252dc22b4fa902ebb384_img.jpg)
 
-Figure 12 displays nine plots arranged in a 3x3 grid, comparing the True DTE (solid black line), Makarov lower bound (dashed red line), Makarov upper bound (dotted red line), and New lower bound (solid blue line). The x-axis ranges from 0 to 30, and the y-axis ranges from 0 to 1. The plots are labeled with parameters  $k_1$  and  $k_2$  in the top right corner:
+Figure 12 displays nine plots arranged in a 3x3 grid, comparing the True DTE (solid black line), Makarov lower bound (dashed red line), Makarov upper bound (dotted red line), and New lower bound (solid blue line). The x-axis ranges from 0 to 30, and the y-axis ranges from 0 to 1. The plots are labeled with parameters  $k_1$  and  $k_2$  in the top right corner of each subplot:
 
 - Row 1:  $k_1=1, k_2=1$ ;  $k_1=1, k_2=10$ ;  $k_1=1, k_2=40$
 - Row 2:  $k_1=5, k_2=1$ ;  $k_1=5, k_2=10$ ;  $k_1=5, k_2=40$

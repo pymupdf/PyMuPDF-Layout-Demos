@@ -1,8 +1,8 @@
 
 
-**NAVWEPS 00-80T-80
+NAVWEPS 00-80T-80
 APPLICATION OF AERODYNAMICS
-TO SPECIFIC PROBLEMS OF FLYING**
+TO SPECIFIC PROBLEMS OF FLYING
 
 invitation for trouble of many sorts. The normal and emergency procedures applicable to each specific airplane will insure the proper operation of the equipment.
 
@@ -14,6 +14,6 @@ invitation for trouble of many sorts. The normal and emergency procedures applic
 
 Great time and effort are expended in the preparation of the flight handbook to provide the most exact information, data, and procedures. Diligent *study* and continuous *use* of the flight handbook will ensure that the greatest effectiveness is achieved from the airplane while still operating within the inherent capabilities of the design.
 
-[Photograph showing a military jet aircraft in flight against a cloudy sky background. The aircraft appears to be flying at low altitude with spray or clouds visible below it.]
+[Photograph showing a military jet aircraft in flight against a cloudy sky background. The aircraft appears to be a single-engine jet with swept wings, captured in a side profile view during flight.]
 
 412

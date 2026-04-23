@@ -4,34 +4,6 @@
 
 ## FONT NAME
 
-Helvetica Roman Bold 6pt
-
-Helvetica Roman Bold 7pt
-
-Helvetica Roman Bold 8pt
-
-Helvetica Roman Bold 9pt
-
-Helvetica Roman Bold 10pt
-
-Helvetica Roman Bold 11pt
-
-Helvetica Roman Bold 12pt
-
-Helvetica Roman Bold 14pt
-
-Helvetica Roman Bold 16pt
-
-Helvetica Roman Bold 18pt
-
-Helvetica Roman Bold 20pt
-
-Helvetica Roman Bold 24pt
-
-Helvetica Roman Bold 30pt
-
-Helvetica Roman Bold 36pt
-
 | Point Size | Character Set |
 |------------|---------------|
 | 6          | COH40060      |
@@ -49,59 +21,26 @@ Helvetica Roman Bold 36pt
 | 30         | COH400T0      |
 | 36         | COH400Z0      |
 
+Helvetica Roman Bold 6pt  
+Helvetica Roman Bold 7pt  
+Helvetica Roman Bold 8pt  
+Helvetica Roman Bold 9pt  
+Helvetica Roman Bold 10pt  
+Helvetica Roman Bold 11pt  
+Helvetica Roman Bold 12pt  
+Helvetica Roman Bold 14pt  
+Helvetica Roman Bold 16pt  
+Helvetica Roman Bold 18pt  
+Helvetica Roman Bold 20pt  
+**Helvetica Roman Bold 24pt**  
+**Helvetica Roman Bold 30pt**  
+**Helvetica Roman Bold 36pt**
+
 Figure 52. Helvetica Roman Bold
 
 # Courier
 
 ## FONT NAME
-
-Courier Roman Medium 7pt
-
-Courier Roman Medium 8pt
-
-Courier Roman Medium 10pt
-
-Courier Roman Medium 12pt
-
-Courier Roman Medium 14pt
-
-Courier Roman Medium 20pt
-
-Courier Roman Bold 7pt
-
-Courier Roman Bold 8pt
-
-Courier Roman Bold 10pt
-
-Courier Roman Bold 12pt
-
-Courier Roman Bold 14pt
-
-Courier Roman Bold 20pt
-
-Courier Italic 7pt
-
-Courier Italic 8pt
-
-Courier Italic 10pt
-
-Courier Italic 12pt
-
-Courier Italic 14pt
-
-Courier Italic 20pt
-
-Courier Italic Bold 7pt
-
-Courier Italic Bold 8pt
-
-Courier Italic Bold 10pt
-
-Courier Italic Bold 12pt
-
-Courier Italic Bold 14pt
-
-Courier Italic Bold 20pt
 
 | Point Size | Character Set |
 |------------|---------------|
@@ -129,5 +68,30 @@ Courier Italic Bold 20pt
 | 12         | C04500B0      |
 | 14         | C04500D0      |
 | 20         | C04500J0      |
+
+Courier Roman Medium 7pt  
+Courier Roman Medium 8pt  
+Courier Roman Medium 10pt  
+Courier Roman Medium 12pt  
+Courier Roman Medium 14pt  
+**Courier Roman Medium 20pt**  
+Courier Roman Bold 7pt  
+Courier Roman Bold 8pt  
+Courier Roman Bold 10pt  
+Courier Roman Bold 12pt  
+Courier Roman Bold 14pt  
+**Courier Roman Bold 20pt**  
+Courier Italic 7pt  
+Courier Italic 8pt  
+Courier Italic 10pt  
+Courier Italic 12pt  
+Courier Italic 14pt  
+**Courier Italic 20pt**  
+Courier Italic Bold 7pt  
+Courier Italic Bold 8pt  
+Courier Italic Bold 10pt  
+Courier Italic Bold 12pt  
+Courier Italic Bold 14pt  
+**Courier Italic Bold 20pt**
 
 Figure 53. Courier Font Samples

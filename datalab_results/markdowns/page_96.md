@@ -14,18 +14,12 @@ Because of its relatively low operating costs, the Eagle Ford remains profitable
 
 ![](2cb4ae7af8981b4179851b065f41dab8_img.jpg)
 
-Bar chart showing Net Eagle Ford Drilling Locations (excluding contingent resources) from January 2013 to January 2015. The chart uses a dual Y-axis: the left axis measures the number of locations (0 to 200), and the right axis measures the drilling inventory in years (0 to 5.0).
+Bar chart showing Net Eagle Ford Drilling Locations (excluding contingent resources) from January 2013 to January 2015. The chart includes a line representing Drilling Inventory (Years).
 
-Legend:
-
-- PROVED (Blue)
-- PROBABLE AND POSSIBLE (Orange)
-- DRILLING INVENTORY (YEARS) (Gray line)
-
-| Period | PROVED | PROBABLE AND POSSIBLE | DRILLING INVENTORY (YEARS) |
+| Year   | Proved | Probable and Possible | Drilling Inventory (Years) |
 |--------|--------|-----------------------|----------------------------|
 | JAN-13 | ~10    | ~100                  | ~1.5                       |
-| JAN-14 | ~10    | ~80                   | ~1.0                       |
+| JAN-14 | ~10    | ~80                   | ~1.5                       |
 | JAN-15 | ~10    | ~150                  | ~4.5                       |
 
 In 2014, the Company brought 35 gross (26.1 net) Eagle Ford wells into production by D&P investments of \$244 million. Through \$26 million of direct mineral leases and \$36 million of acquisitions in 2014, the Company increased its Eagle Ford acreage position to 20,742 net acres, which represents 153.7 net undrilled 3P Reserves locations.
@@ -69,4 +63,4 @@ As at and for the Year Ended 31 December 2014
 
 ![](0f1e4e69e7cc7604dffb307f26feeaa8_img.jpg)
 
-Map of Texas showing the Eagle Ford play area, divided into windows: Oil Window, Volatile Oil & Condensate Window, and Dry Gas Window. Key locations include Maverick, Atascosa, Dimmit, Live Oak, and McMullen. The map also indicates the SEA Field Office and SEA Acreage.
+Map of Texas showing the Eagle Ford Shale play area, divided into windows: Oil Window, Volatile Oil & Condensate Window, and Dry Gas Window. Key locations include Maverick, Atascosa, Dimmit, Live Oak, and McMullen. The map also indicates the SEA Field Office and SEA Acreage.

@@ -1,3 +1,38 @@
+# How to Run the Benchmark
+
+
+##  Installing dependencies
+``` bash
+cp .env.example .env # Add relevant API keys
+apt install tesseract-ocr 
+apt-get install -y libgl1 libglib2.0-0
+uv sync
+```
+
+Markdowns can be generated using the following command for each platform:
+``` bash
+uv run markdown_gen/{platform name}.py 
+```
+
+Docling is optimized for CPU with and without OCR, it will produce two folders `docling_ocr_results` (with OCR) and `docling_wocr_results` (without OCR). PyMuPDF-Layout is also optimized for CPU. 
+
+Running `uv run markdown_gen/{platform name}.py ` will produce a folder with this template 
+{platform_name}_results which will contain the markdowns folder containing all markdowns and a `results.jsonl` file containing the logs. 
+
+Docling and PyMuPDF_Layout additionally create a file inside the {platform_name}_results folder named `duration.txt` which contains the total time taken to generate the markdowns.
+
+## Running the benchmark
+
+``` bash
+uv run prod_benchmark.py
+```
+
+It produces these files
+
+1. benchmark_results_final.csv which contains the final results of the benchmark
+2. benchmark_granular.csv which contains the granular results of the benchmark for each eaxmple in the document
+
+
 # Flow-Aware PDF-to-Markdown Benchmark
 
 This repository provides a benchmark for evaluating the accuracy of PDF-to-Markdown extraction tools. The main goal is to measure how well a tool can convert a complex, 2D PDF document into a 1D (text/markdown) format that **preserves the logical reading flow** of the content.
@@ -44,19 +79,9 @@ We evaluate tools using a **Flow-Aware Text Accuracy (FATA) Score**.
 
 This benchmark was used to generate a comparative analysis of modern PDF extraction tools that produce markdown directly. The initial set of tools evaluated includes:
 
-* LlamaParse
-* Docling
-* Marker
-* Reducto
-* PyMuPDF4LLM
-* Pymupdf-Layout
-* Google Gemini (multimodal)
----
-
-
-# How to run this benchmark
-
-```bash
-uv sync
-uv run prod_benchmark.py
-```
+* [LlamaParse](https://www.llamaindex.ai/llamaparse) (Agentic Plus, premium)
+* [Docling](https://github.com/docling-project/docling) (Open Source, pipeline based with and without OCR)
+* [DataLab/Marker](https://www.datalab.to) (Hosted Solution)
+* [Reducto](https://reducto.ai) (Hosted Solution)
+* [PyMuPDF-Layout](https://pypi.org/project/pymupdf-layout/) (Available on PyPi with PolyForm Noncommercial License)
+* [Google Gemini 3](https://aistudio.google.com/models/gemini-3) (with a [single prompt](markdown_gen/ai_prompt.md))

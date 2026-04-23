@@ -2,11 +2,11 @@
 
 ![](770fa0497770252dc22b4fa902ebb384_img.jpg)
 
-Figure 3 displays two plots comparing the efficiency of three MCMC algorithms (All Blocked, All Scalar, and Auto Blocking) across varying correlation and model size.
+Figure 3 displays two plots comparing the efficiency of three MCMC algorithms (All Blocked, All Scalar, and Auto Blocking) across varying model structures.
 
 The left plot shows Efficiency (effective samples / time) versus Correlation (0.2, 0.5, 0.8). The right plot shows Efficiency (effective samples / time) versus Model size (N) (20, 50, 100).
 
-In both plots, the Auto Blocking algorithm consistently achieves the highest efficiency, followed by All Blocked, and then All Scalar, which is the lowest.
+In both plots, the Auto Blocking algorithm consistently achieves the highest efficiency, especially as correlation increases or model size grows. The All Scalar algorithm generally performs better than All Blocked sampling.
 
 Figure 3: Efficiency results for two contrived model structures: varying sized blocks of fixed correlation (left), and fixed sized blocks of varying correlation (right).
 

@@ -1,8 +1,6 @@
 
 
-Santos Annual Report 2004 :: 15
-
-# Creating Opportunities
+Creating Opportunities
 
 # DELIVERING ON THE EXPLORATION STRATEGY
 
@@ -41,3 +39,5 @@ Vice President
 Geoscience and New Ventures
 
 Float-off of Jack Bates rig prior to deep water drilling operations, offshore Otway Basin, Victoria.
+
+Santos Annual Report 2004 15

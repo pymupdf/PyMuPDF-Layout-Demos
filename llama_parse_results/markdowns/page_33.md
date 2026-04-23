@@ -2,11 +2,11 @@
 
 115
 
-## Runway Declared Distance Information
+### Runway Declared Distance Information
 
 Runway declared distance information when available will be indicated by **D** and is shown to the right of the airport elevation in the sketch box. Declared distances for a runway represent the maximum distances available and suitable for meeting takeoff and landing distance performance requirements.
 
-## Runway Lights
+### Runway Lights
 
 Notes regarding approach lighting systems are shown at the bottom of the sketch box. Runway lights (HIRL) (MIRL) (LIRL) (TDZL)(TDZ/CL) shall be indicated by a note, e.g. HIRL Rwy 9-27.
 
@@ -16,29 +16,29 @@ Other approach lighting is shown on the airport sketch as a symbol on the side o
 
 Runway centerline lights will be indicated by a note only when paired with TDZL, e.g., TDZ/CL Rwys 6 and 24.
 
-## Time/Distance Table
+### Time/Distance Table
 
 When applicable, a Time/Distance Table is provided below the airport sketch. The table provides the distance and time that is required from the final approach fix to the missed approach point for select groundspeeds.
 
-## Base Information (Copter Approaches Only)
+### Base Information (Copter Approaches Only)
 
 Base Information, as required and necessary to identify the MAP area and in the vicinity of the landing area shall be provided. Information shall be limited to and depict significant visual landmark features at and surrounding the MAP area and the heliport/pad of intended landing.
 
-# AIRPORT DIAGRAMS
+## AIRPORT DIAGRAMS
 
 Airport Diagrams are specifically designed to assist in the movement of ground traffic at locations with complex runway/ taxiway configurations. Airport Diagrams are not intended for use in approach and landing or departure operations. An airport diagram assists pilots in identifying their location on the airport, thus reducing requests for "progressive taxi instructions" from controllers.
 
 [Airport diagram showing runway layout with the following labeled elements from left to right:
-- HS 1
-- BAK-12
+- HS-1
+- BAK-12 (with "20" indicator)
 - Runway End Elevation: ELEV 164
 - Runway Slope: 0.7% UP
 - FIELD ELEV 174
 - Runway Dimensions (in feet): 9000 X 200
 - Displaced Threshold
 - Runway Heading (Magnetic): 023.2°
-- Movement Area Dimensions (in feet): 1000 X 200
 - Runway Identification
+- Movement Area Dimensions (in feet): 1000 X 200
 - Visual Screen
 - EMAS]
 
@@ -46,7 +46,7 @@ Airport Diagrams are specifically designed to assist in the movement of ground t
 
 ELEV 5434    **D**    TDZE 5352
 
-Runway diagram with dotted centerline pattern and various runway lighting symbols, including approach lighting systems and runway end identifiers. Shows runway 9L-27R with dimensions and lighting configuration.
+Runway diagram with dotted centerline pattern and various runway lighting symbols, including approach lighting systems and runway end identifiers. Shows runway 9L-27R with elevation markers 091°19.1' and 082° 5 NM from FAF.
 
 TDZ/CL Rwys 7, 16L, 16R, 17R, 26, 34L, 34R, 35L, 35R
 HIRL All Rwys

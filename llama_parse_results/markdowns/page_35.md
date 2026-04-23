@@ -27,10 +27,10 @@ $$\Delta n = 0.115 \frac{m\sqrt{\sigma}}{(W/S)} V_e (KU)$$
 where
 
 Δ*n*=change in load factor due to gust
-*m*=lift curve slope, unit of *C<sub>L</sub>* per degree of α
+*m*=lift curve slope, unit of *C*<sub>*L*</sub> per degree of α
 σ=altitude density ratio
 *W*/*S*=wing loading, psf
-*V<sub>e</sub>*=equivalent airspeed, knots
+*V*<sub>*e*</sub>=equivalent airspeed, knots
 *KU*=equivalent sharp edged gust velocity ft. per sec.
 
 As an example, consider the case of an airplane with a lift curve slope *m*=0.08 and wing loading, (*W*/*S*)=60 psf. If this airplane were flying at sea level at 350 knots and encountered an effective gust of 30 ft. per sec., the gust would produce a load factor increment of *1.61*. This increment would be added to the flight load factor of the airplane prior to the gust,

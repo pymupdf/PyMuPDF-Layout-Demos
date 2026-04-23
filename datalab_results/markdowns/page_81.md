@@ -31,11 +31,15 @@ Proper care and storage of this instrument is essential. Please read the followi
 4. After use, cover the instrument with the plastic dust cover.
 5. If instrument is to be stored for an extended period of time, remove the eyepiece and oculars and store in a moisture-proof container.
 
+![BARSKA logo](6ed175c791b5e156d9c98a8dbcc3318c_img.jpg)
+
+BARSKA logo
+
 ## MODEL AY11240/AY11238
 
-![Diagrams showing the components of BARSKA Model AY11240 and Model AY11238 microscopes. Model AY11240 components include Eyepiece, Barrel, Revolving Turret, Objectives, Spring Clips, Stage, Concave Mirror, Stand, Coarse Adjustment Knob, Fine Adjustment Knob, and 5-Hole Diaphragm and Condenser. Model AY11238 components include Eyepiece, Monocular Tube, Eyepiece Set Screw, Rotating Head, Revolving Turret, Objectives, Spring Clips, Stage, 5-Hole Diaphragm and Condenser, Stand, Coarse Adjustment Knob, Fine Adjustment Knob, Lamp, Lamp On/Off Switch, and Power Cord.](84a1d09fb489061482111515543b60dc_img.jpg)
+![Diagrams showing the components of Model AY11240 and Model AY11238 microscopes. Model AY11240 components include: Eyepiece, Barrel, Revolving Turret, Objectives, Spring Clips, Stage, Concave Mirror, 5-Hole Diaphragm and Condenser, Stand, Coarse Adjustment Knob, and Fine Adjustment Knob. Model AY11238 components include: Eyepiece, Monocular Tube, Eyepiece Set Screw, Rotating Head, Revolving Turret, Objectives, Spring Clips, Stage, 5-Hole Diaphragm and Condenser, Stand, Coarse Adjustment Knob, Fine Adjustment Knob, Lamp, Lamp On/Off Switch, and Power Cord.](1d7527f4316cfe2d342b08d1653d1592_img.jpg)
 
-Diagrams showing the components of BARSKA Model AY11240 and Model AY11238 microscopes. Model AY11240 components include Eyepiece, Barrel, Revolving Turret, Objectives, Spring Clips, Stage, Concave Mirror, Stand, Coarse Adjustment Knob, Fine Adjustment Knob, and 5-Hole Diaphragm and Condenser. Model AY11238 components include Eyepiece, Monocular Tube, Eyepiece Set Screw, Rotating Head, Revolving Turret, Objectives, Spring Clips, Stage, 5-Hole Diaphragm and Condenser, Stand, Coarse Adjustment Knob, Fine Adjustment Knob, Lamp, Lamp On/Off Switch, and Power Cord.
+Diagrams showing the components of Model AY11240 and Model AY11238 microscopes. Model AY11240 components include: Eyepiece, Barrel, Revolving Turret, Objectives, Spring Clips, Stage, Concave Mirror, 5-Hole Diaphragm and Condenser, Stand, Coarse Adjustment Knob, and Fine Adjustment Knob. Model AY11238 components include: Eyepiece, Monocular Tube, Eyepiece Set Screw, Rotating Head, Revolving Turret, Objectives, Spring Clips, Stage, 5-Hole Diaphragm and Condenser, Stand, Coarse Adjustment Knob, Fine Adjustment Knob, Lamp, Lamp On/Off Switch, and Power Cord.
 
 Model AY11240
 
@@ -48,3 +52,7 @@ BARSKA Model AY11240 and Model AY11238 are designed for biological studies such 
 ## CONSTRUCTION
 
 BARSKA Model AY11240 is a fixed tube type. For comfortable observation, the arm can be easily tilted at any angle from 90° vertical to 45° level. It is also equipped with a coarse adjustment and fine adjustment as well as a space limiter to protect the objective from contacting and damaging the specimen. BARSKA Model AY11238 features a monocular tube that is slanted at a 45° angle. The head rotates 360°. The Eyepiece Set Screw prevents the eyepiece from falling out of the tube.
+
+![BARSKA logo](4b6451a59338bba97433c43461a5c372_img.jpg)
+
+BARSKA logo

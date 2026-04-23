@@ -1,6 +1,6 @@
 
 
-## PROVEN PLUS PROBABLE RESERVES (SANTOS SHARE) BY ACTIVITY
+# PROVEN PLUS PROBABLE RESERVES (SANTOS SHARE) BY ACTIVITY
 
 |                                  | Sales gas<br>(incl. ethane)<br>PJ | Crude oil<br>mmbbl | Condensate<br>mmbbl | LPG<br>000<br>tonnes | Total<br>mmboe |
 |----------------------------------|-----------------------------------|--------------------|---------------------|----------------------|----------------|
@@ -11,7 +11,7 @@
 | Revisions                        | 126                               | -21                | 3                   | -45                  | 3              |
 | Estimated reserves year end 2004 | 2,873                             | 74                 | 49                  | 3,523                | 643            |
 
-## PROVEN PLUS PROBABLE RESERVES (SANTOS SHARE) YEAR END 2004 BY AREA (mmboe)
+# PROVEN PLUS PROBABLE RESERVES (SANTOS SHARE) YEAR END 2004 BY AREA (mmboe)
 
 | Area                        | Sales gas<br>(incl. ethane)<br>PJ | Crude oil<br>mmbbl | Condensate<br>mmbbl | LPG<br>000<br>tonnes | Total<br>mmboe |
 |-----------------------------|-----------------------------------|--------------------|---------------------|----------------------|----------------|
@@ -46,12 +46,8 @@ Geologists (AAPG). The definitions used are consistent with the requirements of 
 
 Reserves are defined as those quantities of petroleum which are anticipated to be commercially recovered from known accumulations from a given date
 
-### forward. Santos reports reserves
+forward. Santos reports reserves net of the gas required for processing and transportation to the customer. Reserves reported are based on, and accurately reflect, information compiled by full-time employees of the Company who have the requisite qualifications and experience prescribed by the ASX Listing Rules.
 
-net of the gas required for processing and transportation to the customer. Reserves reported are based on, and accurately reflect, information compiled by full-time employees of the Company who have the requisite qualifications and experience prescribed by the ASX Listing Rules.
-
-## EXTERNALLY REVIEWED
-
-## BOOKING PROCESS
+## EXTERNALLY REVIEWED BOOKING PROCESS
 
 Santos' reserves processes and procedures were reviewed by independent expert, Gaffney, Cline & Associates, and found to be 'appropriate to providing robust estimates of Santos' reserve position in accordance with international industry practice'.

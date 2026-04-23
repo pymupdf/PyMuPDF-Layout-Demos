@@ -76,7 +76,7 @@ CHK
 LISTED
 NYSE
 
-[Aerial photograph showing an industrial or energy facility with storage tanks and buildings surrounded by residential areas and vegetation]
+[Aerial photograph showing an industrial or energy facility with surrounding residential areas and landscape]
 
 WWW.CHK.COM
 
@@ -88,4 +88,4 @@ YOUTUBE.COM/CHESAPEAKEENERGY
 
 FSC MIX
 Paper from responsible sources
-FSC® C101537
+FSC C101537

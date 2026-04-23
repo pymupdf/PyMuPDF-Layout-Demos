@@ -40,10 +40,10 @@ Synthesis Example 1
 
 Resin P-14
 
-[0494] Resin P-14 was synthesized according to the following scheme.
+[0494] Resin P-14 was synthesized according to the following scheme:
 
-[Chemical synthesis scheme showing transformation of compound (5) to (6) to (7) to (8):
-- Compound (5): 4-vinylphenyl acetate with structure showing vinyl group attached to benzene ring with acetate ester group
-- Compound (6): 4-vinylphenol with structure showing vinyl group attached to benzene ring with hydroxyl group
-- Compound (7): 4-vinylphenyl perfluorobutanesulfonate with structure showing vinyl group attached to benzene ring with O-SO<sub>2</sub>-C<sub>4</sub>F<sub>9</sub> group
-- Compound (8): Sodium 4-vinylphenyl perfluorobutanesulfonate with structure showing vinyl group attached to benzene ring with O-SO<sub>2</sub>-C<sub>4</sub>F<sub>8</sub>-SO<sub>3</sub>Na group]
+[Chemical synthesis scheme showing transformation from compound (5) to (6) to (7) to (8):
+- Compound (5): 4-vinylphenyl acetate
+- Compound (6): 4-vinylphenol (OH group)
+- Compound (7): 4-vinylphenyl perfluorobutanesulfonate (with O=S=O group and three F-F bonds, SO<sub>2</sub>F end group)
+- Compound (8): 4-vinylphenyl perfluorobutanesulfonate sodium salt (with O=S=O group and three F-F bonds, SO<sub>3</sub>Na end group)]

@@ -95,6 +95,6 @@ Aerial view of a large industrial or commercial complex, likely a refinery or pr
 
 ![YouTube logo]() [YOUTUBE.COM/CHESAPEAKEENERGY](#)
 
-![FSC and MIX logos indicating paper from responsible sources. FSC logo includes the text 'www.fsc.org'. MIX logo includes the text 'Paper from responsible sources' and 'FSC® C101537'.](f6bf48cbef3b420ad4981560b52d814f_img.jpg)
+![FSC and MIX logos indicating paper from responsible sources.](f6bf48cbef3b420ad4981560b52d814f_img.jpg)
 
-FSC and MIX logos indicating paper from responsible sources. FSC logo includes the text 'www.fsc.org'. MIX logo includes the text 'Paper from responsible sources' and 'FSC® C101537'.
+FSC and MIX logos indicating paper from responsible sources.

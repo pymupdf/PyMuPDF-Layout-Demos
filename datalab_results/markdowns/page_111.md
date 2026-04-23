@@ -12,7 +12,7 @@ The repeating unit having a cyclic carbonate ester structure is preferably the r
 
 $R_A^1$
 
-[Chemical structure of Formula (A-1): A repeating unit showing a carbonate group attached to a polymer backbone via  $R_A^1$ , linked to a cyclic carbonate ester structure (labeled A) via a divalent linking group Z, which is substituted with  $(R_A^2)_n$ .]
+[Chemical structure of Formula (A-1): A repeating unit showing a carbonate group attached to a polymer backbone via  $R_A^1$ , linked to a cyclic carbonate ester structure (labeled A) via a divalent group Z, which is substituted with  $(R_A^2)_n$ .]
 
 (A-1) 25
 
@@ -34,9 +34,9 @@ The substituent represented by  $R_A^2$  is, for example, an alkyl group, a cycl
 
 $n$  represents the number of substituents, and is an integer of 0 or more. For example,  $n$  is preferably 0 to 4, and more preferably 0.
 
-Examples of the divalent linking group represented by A may include an alkylene group, a cycloalkylene group, an ester bond, an amide bond, an ether bond, an urethane bond,
+Examples of the a divalent linking group represented by A may include an alkylene group, a cycloalkylene group, an ester bond, an amide bond, an ether bond, an urethane bond,
 
-an urea bond, or combination thereof. Examples of the alkylene group may include preferably an alkylene group having 1 to 10 carbon atoms, more preferably an alkylene group having 1 to 5 carbon atoms, and for example a methylene group, an ethylene group, a propylene group, and the like.
+an urea bond, or combination thereof. Examples of the alkylene group may include preferably an alkylene group having 1 to 10 carbon atoms, more preferably an alkylene group having 1 to 5 carbon atoms, and for example a methylene group, an ethylene group, an propylene group, and the like.
 
 In one aspect of the present invention, A is preferably a single bond, or an alkylene group.
 
@@ -46,7 +46,7 @@ The polycyclic group containing  $\text{O}—\text{C}(=\text{O})—\text{O}—$ 
 
 (a)
 
-[Chemical structure of Formula (a): A monocyclic carbonate ester structure, a 5-membered ring containing two oxygen atoms and one carbonyl group, with the carbonyl group double-bonded to one oxygen and single-bonded to the other oxygen, which is also bonded to the ring. The ring is labeled  $n_A$ .]
+[Chemical structure of Formula (a): A monocyclic carbonate ester structure, a 5-membered ring containing two oxygen atoms and a carbonyl group, with the ring size indicated by  $n_A$ .]
 
 The monomer corresponding to the repeating unit represented by Formula (A-1) may be synthesized by a conventionally known method described in, for example, Tetrahedron Letters, Vol. 27, No. 32 p. 3741(1986), Organic Letters, Vol. 4, No. 15 p. 2561(2002), and the like.
 
@@ -56,4 +56,4 @@ Hereinafter, specific examples of the repeating unit having a cyclic carbonate e
 
 In addition,  $R_A^1$  in the following specific examples has the same meaning as  $R_A^1$  in Formula (A-1).
 
-[Chemical structures showing two specific examples of repeating units having a cyclic carbonate ester structure. Both structures feature a carbonate group attached to a polymer backbone via  $R_A^1$ , linked to a cyclic carbonate ester structure (a 5-membered ring containing two oxygen atoms and one carbonyl group). The first example shows the cyclic carbonate ester attached directly to the backbone. The second example shows the cyclic carbonate ester attached via a divalent linking group.]
+[Chemical structures showing two specific examples of repeating units having a cyclic carbonate ester structure, both featuring a trifluoromethyl group ( $R_A^1$ ) attached to the polymer backbone.]

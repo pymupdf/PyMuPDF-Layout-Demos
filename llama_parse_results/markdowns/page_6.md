@@ -2,19 +2,28 @@
 
 30
 
-[Figure 12: A 3x3 grid of line plots showing comparisons between True DTE, Makarov lower bound, Makarov upper bound, and New lower bound across different parameter combinations]
+[Figure 12: A 3x3 grid of line plots showing comparisons between True DTE (solid black line), Makarov lower bound (red dashed line), Makarov upper bound (red dashed line), and New lower bound (solid blue line). The plots are arranged as follows:
 
-| k1=1, k2=1<br/>Plot showing curves from 0 to 1 on y-axis and 0 to 30 on x-axis  | k1=1, k2=10<br/>Plot showing curves from 0 to 1 on y-axis and 0 to 30 on x-axis  | k1=1, k2=40<br/>Plot showing curves from 0 to 1 on y-axis and 0 to 30 on x-axis  |
-| ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| k1=5, k2=1<br/>Plot showing curves from 0 to 1 on y-axis and 0 to 30 on x-axis  | k1=5, k2=10<br/>Plot showing curves from 0 to 1 on y-axis and 0 to 30 on x-axis  | k1=5, k2=40<br/>Plot showing curves from 0 to 1 on y-axis and 0 to 30 on x-axis  |
-| k1=10, k2=1<br/>Plot showing curves from 0 to 1 on y-axis and 0 to 30 on x-axis | k1=10, k2=10<br/>Plot showing curves from 0 to 1 on y-axis and 0 to 30 on x-axis | k1=10, k2=40<br/>Plot showing curves from 0 to 1 on y-axis and 0 to 30 on x-axis |
+Row 1:
+- k1=1, k2=1: Shows curves from 0 to 1 on y-axis, 0 to 30 on x-axis
+- k1=1, k2=10: Shows curves from 0 to 1 on y-axis, 0 to 30 on x-axis
+- k1=1, k2=40: Shows curves from 0 to 1 on y-axis, 0 to 30 on x-axis
 
+Row 2:
+- k1=5, k2=1: Shows curves from 0 to 1 on y-axis, 0 to 30 on x-axis
+- k1=5, k2=10: Shows curves from 0 to 1 on y-axis, 0 to 30 on x-axis
+- k1=5, k2=40: Shows curves from 0 to 1 on y-axis, 0 to 30 on x-axis
+
+Row 3:
+- k1=10, k2=1: Shows curves from 0 to 1 on y-axis, 0 to 30 on x-axis
+- k1=10, k2=10: Shows curves from 0 to 1 on y-axis, 0 to 30 on x-axis
+- k1=10, k2=40: Shows curves from 0 to 1 on y-axis, 0 to 30 on x-axis
 
 Legend:
 - True DTE (solid black line)
-- Makarov lower (dashed red line)
-- Makarov upper (dashed red line)
-- New lower bound (solid blue line)
+- Makarov lower (red dashed line)
+- Makarov upper (red dashed line)
+- New lower bound (solid blue line)]
 
 Figure 12: New bounds v.s. Makarov bounds
 

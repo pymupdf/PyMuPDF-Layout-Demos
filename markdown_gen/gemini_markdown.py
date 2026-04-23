@@ -23,12 +23,14 @@ GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 MAX_CONCURRENCY = 5
 MAX_RETRIES = 3  # Number of retry attempts
 RETRY_DELAY = 2  # Seconds to wait between retries
+
+SCRIPT_DIR = Path(__file__).parent
 INPUT_DIR = Path("PDFs")
 BASE_OUTPUT_DIR = Path("gemini_results")
 MARKDOWNS_DIR = BASE_OUTPUT_DIR / "markdowns"
 JSONL_OUTPUT = BASE_OUTPUT_DIR / "results.jsonl"
 
-with open("ai_prompt.md", "r") as f:
+with open(SCRIPT_DIR / "ai_prompt.md", "r") as f:
     MASTER_PROMPT = f.read()
 
 # Model Selection
@@ -248,20 +250,20 @@ async def main():
         return
         
     # Get all PDFs
-    files_to_parse = list(INPUT_DIR.glob("*.pdf"))
     all_pdfs = list(INPUT_DIR.glob("*.pdf"))
     files_to_parse = [f for f in all_pdfs if not (MARKDOWNS_DIR / f.with_suffix('.md').name).exists()]
 
     # Only process PDFs that are missing their .md output
-
     
-    # FIXED: Remove or replace the buggy filter line
     # If you want to filter specific files, uncomment and modify:
     # SPECIFIC_FILES = ["file1.pdf", "file2.pdf"]
     # files_to_parse = [f for f in files_to_parse if f.name in SPECIFIC_FILES]
     
     if not files_to_parse:
-        print(f"❌ No PDFs found in '{INPUT_DIR}'.")
+        if not all_pdfs:
+            print(f"❌ No PDFs found in '{INPUT_DIR}'.")
+        else:
+            print(f"✅ All {len(all_pdfs)} PDFs have already been processed. Nothing to do.")
         return
 
     print(f"🔄 Will retry failed documents up to {MAX_RETRIES} times\n")

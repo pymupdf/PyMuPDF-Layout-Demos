@@ -1,8 +1,8 @@
 
 
-Basic English Language Skills
+# Basic English Language Skills
 
-[Decorative image showing typewriter keys with letters D, F, G, H, J, K visible on circular white keys against a dark background]
+[Decorative image showing typewriter keys with letters D, F, G, H, J, K on circular white buttons against a dark background]
 
 ## Approve/Approve of
 
@@ -28,4 +28,4 @@ E.g. He complimented her by telling her that she was a good writer.
 You "complement" something (or someone) when you add something else to it that suits or fits it well.
 E.g. That scarf complements her dress.
 
-[Decorative image showing typewriter keys with letters E, R, T, Y, U, I visible on circular white keys against a dark background]
+[Decorative image showing typewriter keys with letters E, R, T, Y, U, I on circular white buttons against a dark background]

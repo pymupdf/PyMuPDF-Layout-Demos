@@ -6,9 +6,9 @@
 
 While credit is used for electronic transactions in Western Europe and North America, the model is quite different in many “cash-based” economies around the world. And that’s where Euronet continues to look for new opportunities – particularly in the emerging markets of Central Europe, the Middle East, Africa, Asia-Pacific, Latin America and the Caribbean.
 
-![Map of Poland showing the country's shape and the word 'POLAND'.](5fb340ad68b0c71df0b56698b137e35b_img.jpg)
+![Map of Poland showing the country's shape and the word POLAND.](5fb340ad68b0c71df0b56698b137e35b_img.jpg)
 
-Map of Poland showing the country's shape and the word 'POLAND'.
+Map of Poland showing the country's shape and the word POLAND.
 
 ## The Promise of Emerging Markets
 

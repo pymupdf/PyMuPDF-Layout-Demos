@@ -2,38 +2,45 @@
 
 -continued
 
-Chemical structure (350A<sup>3</sup>): A substituted cyclohexyl group attached to a substituted benzene ring. The benzene ring has a sulfonic acid group ( $\text{HO}_3\text{S}$ ) and an isopropyl group ( $\text{CH}(\text{CH}_3)_2$ ).
+Chemical structure (350A<sup>3</sup>): A substituted cyclohexyl group attached to a substituted benzene ring. The benzene ring has a sulfonic acid group ( $\text{HO}_3\text{S}$ ) and an isopropyl group. The cyclohexyl group is attached to the benzene ring via a methylene bridge.
 
 350A<sup>3</sup>
 
 General Formula (ZI):
 
-$$\text{R}_{201}\text{S}^+\text{R}_{202}\text{Z}^- \quad (\text{ZI})$$
-$$\text{R}_{204}\text{I}^+\text{R}_{205}\text{Z}^- \quad (\text{ZII})$$
+$$\text{R}_{201}\text{S}^+\text{R}_{202}\text{Z}^-$$
 
-Chemical structure (311A<sup>3</sup>): A substituted cyclohexyl group attached to a sulfonate group ( $\text{HO}_3\text{S}$ ) via a sulfur atom. The sulfur atom is also bonded to a trifluoromethyl group ( $\text{CF}_3$ ) and a nitrogen atom ( $\text{N}$ ), which is attached to a cyclohexyl group.
+where  $\text{R}_{201}$  and  $\text{R}_{202}$  are organic groups, and  $\text{Z}^-$  is a non-nucleophilic anion.
+
+Chemical structure (311A<sup>3</sup>): A substituted cyclohexyl group attached to a substituted benzene ring. The benzene ring has a sulfonic acid group ( $\text{HO}_3\text{S}$ ) and a difluoromethyl group ( $\text{CF}_2\text{F}$ ). The cyclohexyl group is attached via a sulfonamide group ( $\text{SO}_2\text{N}$ ).
 
 311A<sup>3</sup>
 
-Chemical structure (250A<sup>3</sup>): A substituted cyclohexyl group attached to a sulfonate group ( $\text{HO}_3\text{S}$ ) via a sulfur atom. The sulfur atom is also bonded to a trifluoromethyl group ( $\text{CF}_3$ ) and a nitrogen atom ( $\text{N}$ ), which is attached to a benzofuran group.
+Chemical structure (250A<sup>3</sup>): A substituted cyclohexyl group attached to a substituted benzene ring. The benzene ring has a sulfonic acid group ( $\text{HO}_3\text{S}$ ) and a difluoromethyl group ( $\text{CF}_2\text{F}$ ). The cyclohexyl group is attached via a sulfonamide group ( $\text{SO}_2\text{N}$ ).
 
 250A<sup>3</sup>
 
-Chemical structure (535A<sup>3</sup>): A substituted cyclohexyl group attached to a sulfonate group ( $\text{HO}_3\text{S}$ ) via a sulfur atom. The sulfur atom is also bonded to a trifluoromethyl group ( $\text{CF}_3$ ) and a nitrogen atom ( $\text{N}$ ), which is attached to a substituted benzene ring. The benzene ring has a sulfonate group ( $\text{SO}_3$ ) and a cyclohexyl group.
+Chemical structure (535A<sup>3</sup>): A substituted cyclohexyl group attached to a substituted benzene ring. The benzene ring has a sulfonic acid group ( $\text{HO}_3\text{S}$ ) and a difluoromethyl group ( $\text{CF}_2\text{F}$ ). The cyclohexyl group is attached via a sulfonamide group ( $\text{SO}_2\text{N}$ ).
 
 535A<sup>3</sup>
 
-Chemical structure (290A<sup>3</sup>): A substituted cyclohexyl group attached to a sulfonate group ( $\text{HO}_3\text{S}$ ) via a sulfur atom. The sulfur atom is also bonded to a trifluoromethyl group ( $\text{CF}_3$ ) and an oxygen atom ( $\text{O}$ ), which is attached to a substituted cyclohexyl group.
+Chemical structure (290A<sup>3</sup>): A substituted cyclohexyl group attached to a substituted benzene ring. The benzene ring has a sulfonic acid group ( $\text{HO}_3\text{S}$ ) and a difluoromethyl group ( $\text{CF}_2\text{F}$ ). The cyclohexyl group is attached via a sulfonamide group ( $\text{SO}_2\text{N}$ ).
 
 290A<sup>3</sup>
 
-Chemical structure (315A<sup>3</sup>): A substituted cyclohexyl group attached to a sulfonate group ( $\text{HO}_3\text{S}$ ) via a sulfur atom. The sulfur atom is also bonded to a trifluoromethyl group ( $\text{CF}_3$ ) and a nitrogen atom ( $\text{N}$ ), which is attached to a substituted cyclohexyl group.
+Chemical structure (315A<sup>3</sup>): A substituted cyclohexyl group attached to a substituted benzene ring. The benzene ring has a sulfonic acid group ( $\text{HO}_3\text{S}$ ) and a difluoromethyl group ( $\text{CF}_2\text{F}$ ). The cyclohexyl group is attached via a sulfonamide group ( $\text{SO}_2\text{N}$ ).
 
 315A<sup>3</sup>
 
 [0291] Among those, the photoacid generator is preferably a photoacid generator including an anionic moiety and a cationic moiety from the viewpoint that the effect of the present invention is more excellent.
 
 [0292] More specifically, the photoacid generator is preferably a compound represented by General Formula (ZI) or General Formula (ZII).
+
+General Formula (ZII):
+
+$$\text{R}_{204}\text{I}^+\text{R}_{205}\text{Z}^-$$
+
+where  $\text{R}_{204}$  and  $\text{R}_{205}$  are organic groups, and  $\text{Z}^-$  is a non-nucleophilic anion.
 
 [0293] In General Formula (ZI),
 

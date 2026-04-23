@@ -4,17 +4,17 @@
 
 On VFR Charts, information about radio aids to navigation (NAVAID) are boxed, as illustrated. Duplication of data is avoided. When two or more radio aids in a general area have the same name with different frequencies, Tactical Air Navigation (TACAN) channel numbers, or identification letters, and no misinterpretation can result, the name of the radio aid may be indicated only once within the identification box. Very High Frequency/Ultra High Frequency (VHF/UHF) NAVAID names and identification boxes (shown in blue) take precedence. Only those items that differ (e.g., frequency, Morse Code) are repeated in the box in the appropriate color. The choice of separate or combined boxes is made in each case on the basis of economy of space and clear identification of the radio aids.
 
-![Diagram illustrating the components of a NAVAID box. Components labeled include: Crosshatch indicates Shutdown status, Operates less than continuous or on-request, FSS Radio Frequencies (122.1R and 123.6), VORTAC PONTIAC, NDB Frequency (379), Channel (Ch 47 PTK), FSS oper 0600-2200, Operational note (Rancho Murieta FSS other times), ASOS/AWOS, Name, Morse Code, and Identifier.](2583a26b85126a2fd60062a7e7ec4ed0_img.jpg)
+![Diagram illustrating the components of a NAVAID box. Components labeled include: Crosshatch indicates Shutdown status, Operates less than continuous or on-request, NDB Frequency, Frequency, Channel, Operational note, FSS Radio Frequencies, ASOS/AWOS, Name, Morse Code, and Identifier.](2583a26b85126a2fd60062a7e7ec4ed0_img.jpg)
 
-Diagram illustrating the components of a NAVAID box. Components labeled include: Crosshatch indicates Shutdown status, Operates less than continuous or on-request, FSS Radio Frequencies (122.1R and 123.6), VORTAC PONTIAC, NDB Frequency (379), Channel (Ch 47 PTK), FSS oper 0600-2200, Operational note (Rancho Murieta FSS other times), ASOS/AWOS, Name, Morse Code, and Identifier.
+Diagram illustrating the components of a NAVAID box. Components labeled include: Crosshatch indicates Shutdown status, Operates less than continuous or on-request, NDB Frequency, Frequency, Channel, Operational note, FSS Radio Frequencies, ASOS/AWOS, Name, Morse Code, and Identifier.
 
 A NAVAID that is physically located on an airport may not always be represented as a typical NAVAID symbol. A small open circle indicates the NAVAID location when collocated with an airport icon.
 
+![Diagram showing a VOR/Saleem NAVAID symbol (blue box) located on an airport icon (airplane symbol). The symbol is associated with a compass rose. An open circle is shown near the airport icon, indicating the NAVAID location on the airport. The text below the symbol reads: Open circle symbol shown when NAVAID located on airport. Type of NAVAID shown in top of box.](5fb340ad68b0c71df0b56698b137e35b_img.jpg)
+
+Diagram showing a VOR/Saleem NAVAID symbol (blue box) located on an airport icon (airplane symbol). The symbol is associated with a compass rose. An open circle is shown near the airport icon, indicating the NAVAID location on the airport. The text below the symbol reads: Open circle symbol shown when NAVAID located on airport. Type of NAVAID shown in top of box.
+
 The type of NAVAID will be identified by: "VOR," (VHF Omni-Directional Range) "VORTAC" (VOR Tactical Aircraft Control), "VOR-DME," (VOR-Distance Measuring Equipment) or "DME" (Distance Measuring Equipment) positioned on and breaking the top line of the NAVAID box.
-
-![Diagram showing a VOR symbol (a circle with a cross inside) located on an airport symbol (a small airplane icon). The VOR box is labeled VOR SALEM 114.3 SVM. An open circle symbol is shown near the airport symbol, indicating the NAVAID location when collocated with an airport.](390120de4fe440c42fea8154fcaad334_img.jpg)
-
-Diagram showing a VOR symbol (a circle with a cross inside) located on an airport symbol (a small airplane icon). The VOR box is labeled VOR SALEM 114.3 SVM. An open circle symbol is shown near the airport symbol, indicating the NAVAID location when collocated with an airport.
 
 DMEs are shown without the compass rose.
 
